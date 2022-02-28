@@ -1,0 +1,733 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fratres in Malo, or The matchles couple, represented in the writings of Mr. Edward Bagshaw, and Mr. Henry Hickman; by way of answer to a scandalous letter, bearing the name of Mr. Bagshaw; and to a slanderous libel, fictitiously subscribed by Theophilus Churchman, but proved to be written by Henry Hickman. To which is added a Latine essay, very briefly and plainly reconciling God's præscience with the free-will of man, which Mr. Bagshaw thought irreconcileable. All in vindication of Dr. Heylin and Mr. Pierce. By one of the meanest of their admirers M.O. Bachelour of Arts.</title>
+            <author>Ogilvy, Michael, d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90123</idno>
+            <idno type="STC">Wing O186</idno>
+            <idno type="STC">Thomason E1044_12</idno>
+            <idno type="STC">ESTC R7136</idno>
+            <idno type="EEBO-CITATION">99873086</idno>
+            <idno type="PROQUEST">99873086</idno>
+            <idno type="VID">168965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168965)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1044[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fratres in Malo, or The matchles couple, represented in the writings of Mr. Edward Bagshaw, and Mr. Henry Hickman; by way of answer to a scandalous letter, bearing the name of Mr. Bagshaw; and to a slanderous libel, fictitiously subscribed by Theophilus Churchman, but proved to be written by Henry Hickman. To which is added a Latine essay, very briefly and plainly reconciling God's præscience with the free-will of man, which Mr. Bagshaw thought irreconcileable. All in vindication of Dr. Heylin and Mr. Pierce. By one of the meanest of their admirers M.O. Bachelour of Arts.</title>
+                  <author>Ogilvy, Michael, d. 1666.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wilks, and are to be sold by the booksellers of London and Oxford,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M. O. = Michael Ogilvy.</note>
+                  <note>"The book is not counted as an Oxford one" --Madan.</note>
+                  <note>Annotation on Thomason copy: "Septemb: 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bagshaw, Edward, 1629-1671 --  Early works to 1800.</term>
+               <term>Hickman, Henry, d. 1692 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168965:1" rendition="simple:additions"/>
+            <p>FRATERS in MALO, OR THE MATCHLES COUPLE, Repreſented in the Writings of M<hi rend="sup">r.</hi> 
+               <hi>EDWARD BAGSHAW,</hi> and M<hi rend="sup">r.</hi> 
+               <hi>HENRY HICKMAN;</hi> By way of Anſwer to a Scandalous <hi>Letter,</hi> bearing the Name of M<hi rend="sup">r.</hi> BAGSHAW; and to a ſlande<g ref="char:EOLhyphen"/>rous <hi>Libel,</hi> fictitiouſly ſubſcribed by <hi>Theophilus Churchman,</hi> but proved to be written by <hi>Henry Hickman.</hi>
+            </p>
+            <p>To which is added <hi>A Latine Eſſay, very briefly and plainly</hi> Reconciling <hi>God's Praeſci<g ref="char:EOLhyphen"/>ence</hi> with the <hi>Free-will of man,</hi> which Mr. <hi>Bagſhaw</hi> thought <hi>irreconcileable.</hi>
+            </p>
+            <p>All in vindication of D<hi rend="sup">r.</hi> 
+               <hi>HEYLIN</hi> and M<hi rend="sup">r.</hi> 
+               <hi>PIERCE.</hi>
+            </p>
+            <p>By one of the meaneſt of their Admirers <hi>M. O.</hi> Bachelour of Arts.</p>
+            <p>Printed by <hi>R. Wilks,</hi> and are to be ſold by the Bookſellers of <hi>London</hi> and <hi>Oxford,</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168965:2"/>
+            <pb facs="tcp:168965:2"/>
+            <opener>
+               <salute>COURTEOUS READER</salute>
+            </opener>
+            <p>That I who am <hi>Junior</hi> to Mr. <hi>Bagſhaw</hi> in point of years (though not, I hope, ſo very a <hi>Boy</hi> in point of ignorance and In<g ref="char:EOLhyphen"/>diſcretion,) ſhould take upon me to be a writer, and to intereſs my ſelf in another mans cauſe, to whom I have little or no Relation; All the Reaſon that I can render is plainly this.</p>
+            <p>
+               <hi>Mr. BAgſhaw</hi> having <hi>in a late</hi> Pamphlet fear<g ref="char:EOLhyphen"/>fully polluted the common light, with the <hi>higheſt</hi> degree of the three worſt Crimes, <hi>Blaſphe<g ref="char:EOLhyphen"/>my, Sawcineſs</hi> and <hi>Ingratitude,</hi> againſt God, <hi>Mr. Pierce,</hi> and his Maſter <hi>Busby;</hi> and having made himſelf thus too foul and loathſome, to deſerve the honour of a correction, from hands ſo favourable &amp; ſo clean, as are thoſe of Mr. <hi>Busby</hi> and Mr. <hi>Pierce;</hi> I thought it fit enough for <hi>me</hi> who am but a <hi>Bachelour of Arts,</hi> (and never in<g ref="char:EOLhyphen"/>tend to be degraded with more <hi>degrees,</hi> where I finde them conferred upon two ſuch Animals as Mr. <hi>Bathyl<g ref="char:EOLhyphen"/>lus</hi> and <hi>Mr. Bagſhaw</hi> are found to be,) to help rid the World of its intolerable Scriblers, by making an <hi>example</hi> of
+<pb facs="tcp:168965:3"/>
+               <hi>one</hi> or <hi>two.</hi> And methinks I have a <hi>call</hi> to the diſcharge of this office. For though I confeſs I was a <hi>School-boy,</hi> and not quite fit ſo much as to come to the <g ref="char:V">Ʋ</g>niverſity, af<g ref="char:EOLhyphen"/>ter the time Mr. <hi>Pierce</hi> was forced to leave it (becauſe he would not comply with the <hi>bloody viſitors</hi> A. D. <hi>1648.)</hi> whereby I had not the poſſibility of ſitting down at his Feet as a Colledge-Student; yet I feel, and can demon<g ref="char:EOLhyphen"/>ſtrate my having profited ſo much by his publick labours, and by his private directions for the ordering of my Studies, (ſince by taking my degree I became deſtitute of a Tutor,) that I hope I may ſay without much Arrogance, I am one of his Diſciples, although the <hi>meaneſt.</hi> His cha<g ref="char:EOLhyphen"/>ritable inſtructions have been ſo free and gratuitous (with<g ref="char:EOLhyphen"/>out either the hope or the poſsibility of a requital, unleſs from God,) that I have never had a capability to ſhew my ſelf thankful in any kinde, untill <hi>Rabſhekah Bag<g ref="char:EOLhyphen"/>ſhaw</hi> put this occaſion into my hands; which I will ne<g ref="char:EOLhyphen"/>ver let ſlip, but rather improve ſo many years as I ſhall live till I am thirty, if no reſtraint ſhall be laid upon me by the interdict of <hi>him,</hi> in vindication of whoſe Name I now am voluntarily engaged. For I am really ambitious to be as grateful to Mr. <hi>Pierce</hi> as the pudendous Maſter <hi>Bagſhaw</hi> hath been ingratefull to Maſter <hi>Buſby.</hi>
+            </p>
+            <p>I have alſo undertaken the taking down of Mr. <hi>Hick<g ref="char:EOLhyphen"/>man,</hi> hiding himſelf under the Title of <hi>Theophilus Church-man)</hi> in vindication of <hi>Doctor Heylin,</hi> whom I very much honour, particularly for the honour I bear to Mr. <hi>Pierce,</hi> for I thought it high Juſtice, that two ſuch <hi>Brethren</hi> in <hi>iniquity,</hi> ſhould be <hi>tyed</hi> together and hung up for an example to all <hi>Spectators.</hi> Nor will it be thought too
+<pb facs="tcp:168965:3"/>great an arrogance that I ſhould take the reſolution to deal with two men at once, who am hardly out of my <hi>boyage,</hi> as being but <hi>Bachelour of Arts;</hi> ſince Mr. <hi>Baxter</hi> has had the confidence to deal with <hi>twenty</hi> for my <hi>Two,</hi> who is known to be but an <hi>undergraduate.</hi> I am his Senior in the Colledge, although he Rockt me in the cradle. Were I ambitious to be known, as far and wide as he hath been, (though more of late for his folly, then any quality be<g ref="char:EOLhyphen"/>ſides,) I ſhould be as careful to print my <hi>name</hi> in as large a character. But intending nothing more then the good of others, the undeceiving of the Credulous, the vindication of the innocent, and the humiliation of the guilty, I do no more affect then I fear the iſſue of being known. And for this very reaſon, I chooſe (at leaſt for the preſent) to write no more of my name then theſe two letters.</p>
+            <closer>
+               <signed>M. O.</signed>
+            </closer>
+         </div>
+         <div type="summary_of_letter">
+            <pb facs="tcp:168965:4"/>
+            <head>The Contents of the Letter to Mr. <hi>Bagſhaw.</hi>
+            </head>
+            <p>His ſix direct Blaſphemies againſt the holineſs of God. His three conſequential Blaſphemies; Firſt againſt God's Preſcience; Secondly, againſt his Word; Thirdly, againſt his Eſſence. Six confeſſions of Ignorance in the things whereof he affirms. His Ten ſelfe-contradictions, and wil<g ref="char:EOLhyphen"/>full Lyes. Wilfullneſs added to his Ingratitude. His Latin Exercitation Epitomiz'd. His falſe Latine pardoned. <hi>Con<g ref="char:EOLhyphen"/>ciliatio facilis &amp; perſpicua Praeſcientiae Divinae cum Libero Ho<g ref="char:EOLhyphen"/>minis Arbitrio.</hi>
+            </p>
+         </div>
+         <div type="summary_of_letter">
+            <head>The Contents of the Letter to Mr. <hi>Hickman.</hi>
+            </head>
+            <p>The Libel proved to be his by a ſecond diſcovery of his <hi>new Thefts,</hi> and many other clear Reaſons. His Slanders and Lyes againſt Dr. <hi>Heylin.</hi> His giving up the whole cauſe to the Doctor. His Sneaking away from Mr. <hi>Pierce</hi>'s Aſſault. His filtching as well confeſſed as denied by himſelf. His contradictions to himſelf. His Ignorance in Greek, Latin, and Logick. The Concluſion.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:168965:4"/>
+            <head>For M<hi rend="sup">r.</hi> 
+               <hi>EDWARD BAGSHAW St.</hi> of <hi>Ch. Ch.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Should not eaſily have believ'd that Mr. <hi>Pierce</hi> his Letter to Dr. <hi>Heylin</hi> had made you ſo ſick as you were reported, had not the effect diſcovered your <hi>diſeaſe;</hi> of which if you were <hi>cured</hi> for a <hi>ſeaſon</hi> (not ſo <hi>perfectly</hi> it ſeems, as you <hi>hope</hi> p. 8.) you are the more endangered by ſo ſuddain and ſo ſad a kinde of <hi>Relapſe.</hi> For no ſooner have you begg'd Mr. <hi>Pierce</hi> his pardon (p. 3.) and cleanſed your ſelfe by a confeſſion of the former filthineſs you were in, but ſtraight your <hi>Looſeneſs</hi> comes upon you (even whilſt you ſay you are <hi>cured</hi> of it) and you <hi>defile</hi> your ſweet ſelf, in a manner ſo much beyond example, that you may better be called <hi>Copronymus,</hi> than <hi>Conſtantine</hi> the Fifth, as having defiled the water of your Baptiſme, with a <hi>filthier Looſeneſs</hi> than he had done. For beſides the proſtituting your ſelfe to all manner of ſcurrility againſt thoſe men, who will requite you only by ſilence, (whether in <hi>pitty</hi> or <hi>contempt</hi> of ſo wretched a fellow, I cannot tell,) Beſides your ingratitude to your Maſter, to which you have added your obduration, beſides your palpable contradictions and contrarieties to your ſelfe, (which make you appear to be an obſtinate and wilful ſinner,) beſides your ignorance and ſtupidity, in which you are caught by your own confeſſion, (and leaves you the leſs to be excuſed for medling in things above your reach,) I ſay, beſides all this, you have Blaſphemed againſt God in ſuch an unpardonable Degree, that this ſhall be the firſt thing, for which I will make you an example to all your Peers, that at leaſt the fear of <hi>publick</hi> penance may deter you from playing the Ranter any more in Print.</p>
+            <pb n="2" facs="tcp:168965:5"/>
+            <p> Firſt,
+<note place="margin">Six direct Blaſphemies againſt the holineſs of God.</note> you pretend to mix ſome <hi>Modeſty</hi> with your <hi>Impu<g ref="char:EOLhyphen"/>dence,</hi> whilſt you ſay <hi>you do not affirm,</hi> and yet (in the very next words) that <hi>you cannot deny God to be the Anthor of ſin.</hi> (p. 2.) If it be Blaſphemy, why <hi>can you not deny it?</hi> If it be one of your Maximes, why do <hi>you not affirme it?</hi> Or what may it be which makes you <hi>ſtick</hi> betwixt Hauke and Buzzard, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) betwixt an <hi>unwil<g ref="char:EOLhyphen"/>lingneſs to affirm,</hi> and a <hi>non-ability to deny,</hi> what (a few pages after) you cannot <hi>hold</hi> from <hi>affirming</hi> in diverſe places? It doth not leſſen your <hi>following</hi> Blaſphemies that you here ſay in waggery, <hi>[If it ſhould follow from this Tenet]</hi> becauſe you afterwards pronounce it without an <hi>If.</hi> You are as <hi>po<g ref="char:EOLhyphen"/>ſitive</hi> in the thing, as if it were an Article of your Creed. And I am now but preparing for your Conviction. If you verily thought it no <hi>Blaſphemie</hi> in <hi>print,</hi> to ſay <hi>you cannot de<g ref="char:EOLhyphen"/>ny God to be the Author of ſin,</hi> why did you <hi>blot</hi> out the prin<g ref="char:EOLhyphen"/>ted word <hi>[Author,]</hi> with the printed word <hi>[be,]</hi> and with your pen make it run thus; <hi>I cannot deny God to will the Event of ſin?</hi> That the former was printed from your Manuſcript Copie, is too viſible to the eyes of all your few Readers, to be denied; beſides its admirable agreement with all that follows, (p. 9, 10, &amp; 11.) Perhaps you will ſay in your excuſe, that what was alter'd by the <hi>Pen,</hi> was done without your knowledge, and (likely too) againſt your will, by the Compoſitor, or Printer, or Corrector of the Preſs. Be it ſo, or not ſo; I muſt ask you a ſecond time, if you thought it to be Blaſphemy, why would you ſend it to the Preſs, and there ſuffer it to paſs both in the Proof and the Reviſe, before your ſelfe or your Corrector thought fit to mend it? Or why did you not ſo mend it, as to make it ſomewhat the better? For conſidering your Principle (p. 9.) <hi>That all Gods Decrees are abſolute,</hi> and <hi>that it cannot be un<g ref="char:EOLhyphen"/>derſtood</hi> (at leaſt by <hi>you</hi>) <hi>how God can conſider any condition in the Creature, as a ground of his Election,</hi> and by conſequence, of his <hi>Reprobation,</hi> (meaning his <hi>Will</hi> and his <hi>Decree</hi> of the one and the other, for elſe you run your ſelfe headlong a<g ref="char:EOLhyphen"/>gainſt the men of your own way) I ſay, conſidering your Principle, what difference is there betwixt your ſaying, that
+<pb n="3" facs="tcp:168965:5"/>
+               <hi>God doth will the Event of ſin,</hi> and that he is the <hi>Author of ſin?</hi> He being granted by all, to be the <hi>Author of all That,</hi> which he doth <hi>Abſolutely will?</hi> And 'tis as fully agreed by all, that he <hi>neceſſitates</hi> the <hi>being</hi> of what he <hi>Abſolutely wil<g ref="char:EOLhyphen"/>leth,</hi> which is affirmed even by them that were the favourers of <hi>Gotteſchalk,</hi> to be an
+<note n="‖" place="margin">See Mr. <hi>Pierce</hi>'s <hi>Di<g ref="char:EOLhyphen"/>vine purity de<g ref="char:EOLhyphen"/>fended.</hi> ch. 4. p. 37.</note> 
+               <hi>horrible Blaſphemy againſt God;</hi> and by
+<note n="†" place="margin">
+                  <hi>Ibid p.</hi> 38.</note> 
+               <hi>Remigius</hi> in particular, to be a <hi>making god the Author of ſin.</hi> Nor is your Blaſphemy the leſs, but the greater ra<g ref="char:EOLhyphen"/>ther, (as I ſhall by and by ſhew) that you ſay <hi>In ſome ſenſe</hi> you cannot deny God to be the Author of ſin, or to will the event of ſin; for you diſcover your <hi>ſenſe</hi> to be the <hi>worſt</hi> to be imagin'd, ſo much the worſt, that I finde you ſpeaking <hi>worſe of God,</hi> than any man, without ſlander, could have ſpoken of the <hi>Devill.</hi> And I can prove what I ſay, even by the dictates of <hi>common ſenſe.</hi> That you may not fail of a conviction, compare your former with your following words.</p>
+            <p>Secondly, You peremptorily ſay, (p 9.) <hi>That God is the Sole Author of whatever conditions the creature can be ſuppo<g ref="char:EOLhyphen"/>ſed to have.</hi>] Firſt, obſerve the word <hi>Author.</hi> Next the uni<g ref="char:EOLhyphen"/>verſality of your ſpeech, not only expreſſed by the word <hi>whatever,</hi> but by <hi>whatever</hi> conditions the creature <hi>can be ſuppoſed</hi> to have. In each of which notes of your univerſa<g ref="char:EOLhyphen"/>lity, God is inferred unavoidably to be the <hi>Author of all our ſins.</hi> For that the <hi>ſins</hi> of men are the <hi>conditions,</hi> upon which the Decree of Reprobation is <hi>executed</hi> upon them, hath ever been granted even by thoſe of your way, who deny (as well as you) that the Decree it ſelf is <hi>Conditional.</hi> Nor is there any thing plainer throughout the Scriptures.
+<note place="margin">Ezek. 33.8.</note> 
+               <hi>If thou doſt not warn the wicked from his way, his blood will I require at thine hand.</hi> This and all other ſins are ſome of thoſe <hi>con<g ref="char:EOLhyphen"/>ditions,</hi> not only which <hi>may be ſuppos'd</hi> to be, but which actually <hi>are</hi> in the creature, and upon which Gods venge<g ref="char:EOLhyphen"/>ance is here denounced. Now becauſe you tremble not to ſay, That God is the <hi>Author of all Conditions</hi> in the Creature, (of all that <hi>are,</hi> yea and all that can be <hi>ſuppoſed</hi> too) that is, of all the <hi>villanies</hi> that either <hi>are,</hi> or can be <hi>ſuppos'd</hi> to be in the Creature, I am bound to <hi>warn you</hi> (as I do) from
+<pb n="4" facs="tcp:168965:6"/>this your <hi>Blaſphemous and wicked way,</hi> that whatever be<g ref="char:EOLhyphen"/>comes of <hi>yours,</hi>
+               <note place="margin">Verſe 9.</note> I may deliver <hi>mine own ſoul.</hi>
+            </p>
+            <p n="3">3. Again you poſitively affirm, (p 9) <hi>That whatever God foreſees,</hi> and <hi>does not prevent, he may juſtly be ſaid to cauſe.</hi>] And here your malice to your Creator doth grow outrage<g ref="char:EOLhyphen"/>ous. For as he cannot but <hi>foreſee</hi> (who is <hi>Omniſcient</hi>) ſo he doth not <hi>prevent,</hi> but patiently <hi>ſuffers</hi> to come to paſs <hi>All the wickedneſs in the world;</hi> which had he prevented, it had not been. And ſo it is palpably your Opinion expreſt in print, That <hi>God may juſtly be ſaid to be the Cauſe of all the wickedneſs in the world;</hi> which is by much a greater <hi>Blaſphemy,</hi> than can be verified of the <hi>Devil;</hi> becauſe there is very much <hi>wickedneſs</hi> of which the Devil is not the Cauſe, but only the <hi>will</hi> of the wicked man, as the right Reverend <hi>Biſhop Hall</hi> hath well obſerved. And are you fit to be a <hi>Preacher,</hi> who teach the people to believe that God is <hi>worſe</hi> than the Devil? Do not flatter your ſelf, that when you ſhall come to be exa<g ref="char:EOLhyphen"/>mined for theſe and the reſt of your horrid Blaſphemies, it will ſuffice you to ſay, <hi>You writ theſe things when you were D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unk;</hi> For you have not onely <hi>written,</hi> but alſo done what you <hi>can</hi> to make them <hi>publick</hi> too. For which it is not your <hi>Maſter Bradſhaw,</hi> that will be able to excuſe you.</p>
+            <p n="4">4. And whereas you ſay alſo, (p. 9.) <hi>that you cannot under<g ref="char:EOLhyphen"/>ſtand, how thoſe who acknowledge Gods Praeſcience, can free him from being in ſome Senſe The Author of Sin.</hi>] You ex<g ref="char:EOLhyphen"/>pla<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your meaning by the fourth line going before, where God in plain termes is called by you <hi>[The Sole Author,]</hi> as if the <hi>Devills</hi> and <hi>wicked men</hi> had nothing to do in the works of wickedneſs, but all were to be caſt upon <hi>God alone.</hi> Where<g ref="char:EOLhyphen"/>by it appears in <hi>what ſenſe</hi> you would have God not to be freeable from being thought the <hi>Author of Sin,</hi> by ſuch as acknowledge he is <hi>Omniſcient.</hi> And if you acknowledge him to be <hi>ſuch,</hi> then you profeſs <hi>you cannot free him from being in your ſenſe the Author of Sin.</hi> But if you <hi>deny</hi> him to be <hi>Om<g ref="char:EOLhyphen"/>niſcient,</hi> declare your denial if you dare, and you ſhall have a Round Anſwer. Again you tell us what you mean by the Phraſe <hi>[in ſome ſenſe]</hi> when you joyn it to Gods being <hi>Author
+<pb n="5" facs="tcp:168965:6"/>of ſin,</hi> by having ſaid before that he <hi>willeth ſin,</hi> and that what he <hi>willeth</hi> he <hi>neceſſitates,</hi> becauſe he <hi>Abſolutely</hi> wills it, in <hi>your Theology</hi> (p. 9, &amp; 10.)</p>
+            <p n="5">5. To leave your ſelf without excuſe, and without all be<g ref="char:EOLhyphen"/>nefit of equivocation, you open your mind with a witneſs (p. 10.) where you ſay that the <hi>Abſolute will of God, as it is the prime cauſe, ſo it does alwayes actually concur with, and therefore is neceſſarily productive of every action of the Crea<g ref="char:EOLhyphen"/>ture.</hi>] I will not here ſhew how fit you are to be <hi>
+                  <g ref="char:V">Ʋ</g>ndergra<g ref="char:EOLhyphen"/>duate,</hi> if not to be ſent back to <hi>School,</hi> (not as an <hi>Uſher</hi> to teach others, but as an <hi>overgrown Boy,</hi> to be taught once more in the Uſhers Formes,) by your illogical uſe of the word <hi>[Therefore;]</hi> inferring <hi>neceſſary productiveneſs</hi> from <hi>actual concurrence,</hi> as if you knew not the force of thoſe <hi>Engliſh</hi> words: For the <hi>Blaſphemy</hi> of your ſpeeches is ſo much the <hi>worſt</hi> and the moſt <hi>Regnant</hi> thing in you, that your talking like an <hi>Idiot</hi> doth hardly deſerve my conſideration. You know that to <hi>Blaspheme,</hi> and <hi>hate</hi> and <hi>curſe the Crea<g ref="char:EOLhyphen"/>tor,</hi> are ſome of the <hi>actions</hi> of the <hi>Creature;</hi> which ſhews that your Doctrine muſt needs be this, that the <hi>abſolute will of God is the prime cauſe of Blaſpheming, and hating, and cur<g ref="char:EOLhyphen"/>ſing God;</hi> and is <hi>neceſſarily productive</hi> as well of the <hi>worſt,</hi> as of the <hi>beſt actions,</hi> becauſe (ſay you) of <hi>every action</hi> of the Creature. But whether you do not rather believe that the <hi>three</hi> ſaid <hi>actions</hi> are very <hi>good,</hi> as being produced by <hi>God</hi> himſelf (in your Opinion,) then that God can be <hi>productive</hi> of any thing that is <hi>evill,</hi> you muſt reſolve your Readers another Time. If you ſay <hi>yes,</hi> then you hold that it is good to <hi>Blaſpheme and hate God;</hi> but if you ſay <hi>No,</hi> you hold that God is the <hi>Cauſe</hi> and the <hi>prime Cauſe</hi> too of thoſe <hi>impi<g ref="char:EOLhyphen"/>eties.</hi>
+            </p>
+            <p n="6">6. You farther add in the ſame page, (6 lines from the bottome,) <hi>that Gods Influence doth Act, though in a ſecret, yet in an irreſiſtible manner.</hi>] And thus you infer, with your Maſter <hi>Hobbs,</hi> that twas as neceſſary for <hi>David</hi> to commit Adultery, as for the <hi>Fire</hi> to burn upwards: the one being acted as <hi>irreſiſtibly</hi> as the other, in your Opinion. And hence it muſt needs be your Opinion, that there cannot
+<pb n="6" facs="tcp:168965:7"/>be any ſuch thing as <hi>Hell,</hi> becauſe God is juſt; and it can<g ref="char:EOLhyphen"/>not conſiſt with juſtice to puniſh men eternally for what they could not be obliged to perform: And <hi>Nemo tenetur ad Impoſſibile,</hi> none could ever be obliged to the doing of thoſe things, which from all eternity were made <hi>impoſſible</hi> to be done. And all was ſo made impoſſible, the contrary to which was decreed to be effected in Time, by an <hi>Influence Acting in a manner irreſiſtible.</hi> And ſo perhaps when you ſhall be asked, why you have written ſo many <hi>Blaſphemies;</hi> you will readily ſay, you could not help it. For <hi>God</hi> (ſay you) <hi>is the prime cauſe, and is neceſſarily productive of every action of the Creature</hi> (p. 10) and <hi>Gods Influence doth act in an irreſiſtible manner,</hi> (<hi>ibid.</hi> and what you were made to do <hi>irreſiſtibly</hi> you <hi>could not help.</hi> And ſo you are caught in a net which your ſelfe were at the coſt and the care to weave; having proved you a <hi>Ranter</hi> in the higheſt degree, by an Argument never to be reſiſted. Whereas you ſay, <hi>Gods In<g ref="char:EOLhyphen"/>fluence doth act,</hi> and not that <hi>God doth act by his Influence,</hi> you only diſcover your diſability to write plain <hi>Engliſh</hi> like a <hi>Scholar,</hi> and therefore for That I ſhall not vex you, if you will learn ſome <hi>Logick</hi> before you write next. But I haſten to your <hi>three conſequential Blaſphemies.</hi>
+            </p>
+            <p>The <hi>ſix</hi> examples of your <hi>Blaſphemy</hi> againſt the <hi>holineſs</hi> and <hi>goodneſſe</hi> of God Almighty being premiſed,
+<note place="margin">Your <hi>Conſe<g ref="char:EOLhyphen"/>quential Blaſ<g ref="char:EOLhyphen"/>phemies,</hi> 1. a. gainſt Gods <hi>Praeſcience.</hi>
+               </note> I now pro<g ref="char:EOLhyphen"/>ceed unto the ſeventh, which very plainly (although Im<g ref="char:EOLhyphen"/>plicitly) you have publickly vented againſt his <hi>preſcience.</hi> For firſt whilſt you ſay, <hi>you are not able to underſtand, how thoſe who acknowledge Gods preſcience can free him from being the Author of Sin,</hi> (p. 9.) you imply your ſelf to be none of their number, who do <hi>acknowledge Gods Preſcience;</hi> if we du<g ref="char:EOLhyphen"/>ly compare it with what you ſay <hi>before</hi> and <hi>after.</hi> You ſay <hi>before</hi> (p. 2) <hi>that men ought to look no higher for a cauſe of their defilement, then to the impure ſpring within them.</hi> Which if you really believe, (as you ſay you do, p 1.) you muſt needs believe that God hath no <hi>preſcience</hi> of any <hi>Sin,</hi> becauſe the <hi>acknowledging</hi> of his <hi>preſcience</hi> is ſaid by you to conclude him the <hi>Author of ſin.</hi> And if God may be ſo concluded, then men may look <hi>higher for a cauſe of their defilement, then to the
+<pb n="7" facs="tcp:168965:7"/>ſpring within themſelves.</hi> So as you cannot deny your impli<g ref="char:EOLhyphen"/>cit <hi>Denial</hi> of his <hi>Preſcience</hi> (p. 9. but by confeſſing you plaid the Hypocrite, in ſaying you did <hi>believe,</hi> what you knew you did not, (p. 1.) And as you ſay (p. 11.) how much <hi>the doubts of Preſcienos are apt to perplex a diſputing Chriſtian,</hi> ſo you ignorantly affirme (p. 20.) <hi>that no man yet hath been e<g ref="char:EOLhyphen"/>ver able to explain, how humane Liberty can conſiſt with Di<g ref="char:EOLhyphen"/>vine Preſcience.</hi> So that one of theſe two you implicitely pro<g ref="char:EOLhyphen"/>feſs not to believe, unleſſe you can believe <hi>two</hi> things at <hi>once,</hi> whereof the <hi>one</hi> is <hi>inconſiſtent</hi> with the other. <hi>Humane liber<g ref="char:EOLhyphen"/>ty</hi> you <hi>believe,</hi> (if we may believe you p. 19.) though you ſay your Maſter <hi>Hobbs does more then Stoically deny it.</hi> And therefore <hi>Divine Preſcience</hi> muſt needs be that which you <hi>diſ<g ref="char:EOLhyphen"/>believe.</hi>
+            </p>
+            <p n="8">8. Your 8th. Blaſphemy Conſiſts in the Jeere you caſt up<g ref="char:EOLhyphen"/>on the <hi>Scripture,</hi>
+               <note n="2" place="margin">Againſt his word.</note> wherein though you ſay, <hi>you are taught to believe that man hath free will,</hi> (p. 19.) yet you alſo ſay 'tis ſo <hi>impoſſible</hi> to be <hi>proved,</hi> that <hi>you think there is nothing leſs ca<g ref="char:EOLhyphen"/>pable of a proof,</hi> (ibid.) Nor doth it excuſe you, that you there ſay. <hi>Si omnino Philoſophice a gendum ſit;</hi> for beſides your affirming, the <hi>Inconſiſtency of Preſcience with the Liberty of the will</hi> (in your deep apprehenſion,) you diſcover your <hi>mockery</hi> in the whole matter, by daring to ſay in equiva<g ref="char:EOLhyphen"/>lence, there neither <hi>is</hi> nor <hi>can be</hi> God, if God may be gran<g ref="char:EOLhyphen"/>ted to be <hi>a Spirit</hi> who can move himſelf by his proper force.</p>
+            <p n="9">9. For you ſay, <hi>it is impoſſible to be ſo much as imagined or conceived, that any thing ſhould be able to move it ſelf and that by its natural force or virtue.</hi>
+               <note n="3" place="margin">Againſt his Eſſence.</note> (p 19.) which although you u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge againſt the <hi>Liberty of the will,</hi> yet it evidently reacheth to the denial of <hi>Gods own eſſence.</hi> For your words are <hi>univerſal,</hi> and muſt be granted by your ſelf to ſtrike at <hi>God,</hi> if you will grant, that <hi>God <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is aliquid.</hi> And if you will not, you will diſcover your <hi>Atheiſme</hi> another way. For what is not <hi>Aliquid</hi> is <hi>Nihil.</hi> And to ſay that <hi>God</hi> is <hi>nothing,</hi> is as bad as to ſay, <hi>there is no God.</hi> I foreſee you may ſay in your own defence, that you ſpeak only in reference to the <hi>Omnia quae videmus</hi> (3. lines going before) But I alſo fore<g ref="char:EOLhyphen"/>ſee, this will not ſtand you in any ſtead. For do you ſpeak
+<pb n="8" facs="tcp:168965:8"/>of <hi>all things, onely viſible</hi> to the <hi>eyes of the outward man?</hi> or of <hi>all things viſible</hi> to the <hi>inward man</hi> alſo, I mean to the <hi>eyes of the underſtanding?</hi> If of the <hi>former,</hi> you <hi>baffle</hi> your ſelf with your <hi>own Inſtance,</hi> which you expreſly give in <hi>the will of man.</hi> (For the will of man is <hi>inviſible,</hi> unleſs it be to the <hi>Inward eyes.</hi>) If of the <hi>latter,</hi> you muſt confeſs that your Aſſertion doth reach even to God, and becomes an Argument for <hi>Athciſme.</hi> For (beſides the Reaſon before given) it is not a <hi>God,</hi> but an <hi>Idol,</hi> which <hi>ariſeth out of certain determinate Cauſes.</hi> And this you know is the <hi>Engliſh</hi> of your <hi>own expreſſion</hi> in that place.</p>
+            <p>If in the three laſt Paragraphs I have but argued from your <hi>words,</hi>
+               <note place="margin">Six confeſsi<g ref="char:EOLhyphen"/>ons of igno<g ref="char:EOLhyphen"/>rance in the things where<g ref="char:EOLhyphen"/>of you affirm.</note> and not hit upon your <hi>meaning,</hi> be ſure you learn to write better, before you write of ſuch things, of which you <hi>confeſs</hi> you underſtand nothing at all. And this is the next thing to be noted in you, that you have taken ſo much paines to tell the world you are a <hi>Blockhead,</hi> or that nothing can truly <hi>be,</hi> but what you are a<g ref="char:EOLhyphen"/>ble to <hi>comprehend.</hi> For though <hi>conditional Election</hi> is aſſer<g ref="char:EOLhyphen"/>ted, both by <hi>Scripture</hi> and <hi>Antiquity,</hi> and the moſt <hi>Learned</hi> of all the <hi>Moderns,</hi> yea and aſſented unto by the ableſt Fol<g ref="char:EOLhyphen"/>lowers of <hi>Calvin</hi> (who grant <hi>Election</hi> to be <hi>conditional,</hi> though not the eternal <hi>Decree</hi> to Elect,) yet (1.) you ſay <hi>tis impoſ<g ref="char:EOLhyphen"/>ſible to be conceived</hi> (p. 2.) And therefore you muſt needs be one of the <hi>dulleſt</hi> of <hi>Mankinde,</hi> ſince what is <hi>eaſie</hi> to <hi>other</hi> men is <hi>impoſſible</hi> to <hi>you.</hi> You have not only <hi>not learnt,</hi> what others have; but you are not <hi>capable</hi> of being <hi>taught.</hi> Why elſe do you ſay, that that is <hi>impoſſible to be conceived,</hi> which is <hi>demonſtrated</hi> by <hi>others,</hi> and <hi>conceived</hi> even by <hi>me,</hi> than whom there is hardly any one duller, your ſelf excepted? 2. You ſay, <hi>you do not underſtand, how God can conſider any condition in the Creature, as a ground of his Election.</hi> (p 9.) why then did you not ſupplicate, to Mr. <hi>Pierce,</hi> or ſome other) for <hi>information?</hi> why do you raile at other men, for under<g ref="char:EOLhyphen"/>ſtanding things above your reach, or for your wants of un<g ref="char:EOLhyphen"/>derſtanding? 3. You ſay, <hi>you do not underſtand, how they that acknowledge Gods Preſcience can free him from being in ſome ſenſe the Author of ſin.</hi> (ibid.) But ſuppoſe you cannot <hi>un<g ref="char:EOLhyphen"/>derſtand</hi>
+               <pb n="9" facs="tcp:168965:8"/>how <hi>God can be a Spirit,</hi> (which ſurpaſſeth Mr. <hi>Hobbs</hi> his underſtanding) does it therefore follow, <hi>he is not a Spirit?</hi> Cannot things be <hi>knowable,</hi> unleſs ſuch things as you can <hi>know</hi> them? 4. You ſay, <hi>you cannot underſtand Free-will,</hi> (p. 10.) And I believe you ſpeak truely. But why then do you write two leaves of Latin <hi>De Libere Arbitrio,</hi> and ridi<g ref="char:EOLhyphen"/>culouſly call it <hi>Exercitatio Philoſophica</hi>) when you confeſs in the ſame Pamphlet (I mean the Engliſh part of it) not one<g ref="char:EOLhyphen"/>ly that you <hi>do not,</hi> but that you <hi>cannot underſtand</hi> the thing you write of? Why are there <hi>Schooles</hi> and <hi>Schoole-maſters,</hi> but to enlighten ſuch underſtandings, as yours is manifeſted to be? 5. You ſay there are <hi>Intricacies which make this con<g ref="char:EOLhyphen"/>troverſy unintelligible, and almoſt incapable of ſolution.</hi> (p. 10. 11.) Yes, <hi>quite Incapable,</hi> if <hi>unintelligible.</hi> But as he that ſpeakes <hi>aloud</hi> to every one that is <hi>quick</hi> of hearing, doth ſeem to <hi>whiſper</hi> to a man that is <hi>thick</hi> of hearing, and to <hi>hold his peace</hi> to a man that is <hi>deaf;</hi> ſo ſome mens <hi>evidences</hi> are <hi>in<g ref="char:EOLhyphen"/>tricacies</hi> to others: and things <hi>commonly underſtood</hi> may to men of your pitch, be <hi>unintelligible.</hi> But there are <hi>intricacies</hi> indeed, as you have <hi>made</hi> them, by taking thoſe for your <hi>Maximes,</hi> and ſetting them down as things <hi>granted,</hi> which are the greateſt of all <hi>Falſehoods,</hi> and the moſt generally <hi>de<g ref="char:EOLhyphen"/>nyed.</hi> And I refer you for inſtance to my firſt <hi>Six Paragraphs,</hi> ſhewing how you make God to be the <hi>Author of ſin,</hi> without the leaſt <hi>offer</hi> of <hi>Reaſon</hi> for it. 6. You confeſs you are not able to <hi>prove free-will,</hi> nor to reconcile it with the <hi>Preſci<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce</hi> of God (p 19.20.) although you ſay <hi>you are content to believe it</hi> (p. 10.) And are not you a proper man, to offer at a <hi>diſ<g ref="char:EOLhyphen"/>pute</hi> about what you <hi>confeſſe</hi> you <hi>cannot prove,</hi> nor <hi>un<g ref="char:EOLhyphen"/>derſtand</hi> nor <hi>conceive?</hi> no nor <hi>imagine</hi> how the things can be <hi>conceivable?</hi> Tis juſt as if <hi>Polyphemus,</hi> when he was <hi>blinde,</hi> ſhould have challenged <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> to judge of <hi>Colours,</hi> notwithſtanding his confeſſions, that all was <hi>black</hi> to him, as being <hi>blinde.</hi>
+            </p>
+            <p>From your confeſſed <hi>wants</hi> of <hi>underſtanding,</hi> (which may well have been <hi>forfeited</hi> for your monſtrous <hi>ingratitude</hi> to your <hi>Teacher</hi>) I come to ſhew you the <hi>depravation</hi> of your <hi>Will</hi> too.
+<note place="margin">Ten ſelf-con<g ref="char:EOLhyphen"/>tradictions &amp; willful Lies.</note> which will be beſt of all ſeen, in your <hi>ſelf-contra<g ref="char:EOLhyphen"/>dictions,</hi>
+               <pb n="10" facs="tcp:168965:9"/>and <hi>wilful lies,</hi> For I find you ſaying within the compaſs of a few pages, 1. That <hi>you hold nothing but what you ſolely derive from Scripture,</hi> (p. 1.) and yet <hi>that you can<g ref="char:EOLhyphen"/>not deny God to be the Author of Sin,</hi> (p. 2.) which is as <hi>con<g ref="char:EOLhyphen"/>trary</hi> to Scripture as Heaven is to Hell. 2. That <hi>men ought not to look higher for a cauſe of their defilement then unto the impure ſpring within them,</hi> (p. 2.) And yet that <hi>the abſolute will of God is the prime cauſe, and neceſſarily productive of every action of the Creature</hi> (p. 10.) So that unleſs you mean <hi>God,</hi> by the <hi>impure ſpring within men,</hi> (which is a greater Blaſphemy then ever proceeded from the Devil) your <hi>ſelf-contradiction</hi> is unpardonably ſhameful; though your condition is farre worſe, if it be no contradiction; and that for the reaſon I juſt now hinted. 3. <hi>That you do in your very thoughts abhor Blaſphemy, and cannot with reaſon be accuſed of it</hi> (p. 2.) And yet <hi>that God is the ſole Author of whatever conditions the Creature can be ſuppoſed to have.</hi> (p. 9.) Do you not think it to be <hi>Blaſphemy,</hi> for which Mr.
+<note n="*" place="margin">See <hi>Mr. Pierces divine purity defen<g ref="char:EOLhyphen"/>ded</hi> Edit. 2. p. 30.</note> 
+               <hi>Calvin</hi> accuſed the <hi>Liber<g ref="char:EOLhyphen"/>tines,</hi> of making <hi>no difference between God and the Devil?</hi> If you <hi>adhorred</hi> it in your <hi>thoughts,</hi> why did you <hi>Print</hi> it for one of your principles? If you did <hi>not</hi> abhor it, you wilfully <hi>lied</hi> when you ſaid you <hi>did.</hi> 4. <hi>That you firmly believe mens ſins to be wholly to be taken to themſelves</hi> (p. 1.) And yet that <hi>you cannot underſtand, how they who acknowledge Gods preſcience</hi> can free him from being the <hi>Author of ſin.</hi> (p. 9. 5. That Mr. <hi>Pierce charged your faults upon the account of your principles,</hi> (p. 1.) and yet that <hi>you did him an injury,</hi> for which you al<g ref="char:EOLhyphen"/>ſo <hi>begge his pardon,</hi> in naming him raſhly as the <hi>Author</hi> of thoſe <hi>reflections ſet out by Tilenus Junior,</hi> whom you call the <hi>nameleſſe,</hi> and <hi>unknown Apologiſt.</hi> (p. 3. 4, 5.) 6. That <hi>He at<g ref="char:EOLhyphen"/>proached neer to Blaſphemy</hi> (p. 1.) and yet that <hi>you dare not charge upon him thoſe odious inferences</hi> &amp;c. and that <hi>his opinion is conſiſtent with a pious life</hi> (p. 2.) 7. That <hi>you do hartily beg his pardon for your Preface</hi> (p. 3.) and are <hi>content to call it a fault, a miſtake grounded upon preſumptions,</hi> (p. 4.) and yet that <hi>you have a juſt occaſion to abide</hi> by what you ſaid, and <hi>inſtead of retracting any thing in your Preface, you might look upon it only as an Anticipated revenge.</hi> (p. 5.) and yet again (but five lines after) that Mr. <hi>Pierce having opened your eyes,</hi> as to what you
+<pb n="11" facs="tcp:168965:9"/>ſay you <hi>did ignorantly, and in the dark,) tis fit you ſhould firſt offer to ſhake hands, and not wilfully proſecute what you unwit<g ref="char:EOLhyphen"/>tingly began.</hi> 8. That <hi>you hold it more generous, to ask for<g ref="char:EOLhyphen"/>giveneſſe, then to perſiſt in an injury,</hi> (p. 4.) and yet that <hi>you dare not retract any thing in your Narrative</hi> (p. 3.) though wholy ſpent againſt <hi>your own Maſter Mr. Busby,,</hi> who had done better for you then your natural Parents. 9. That <hi>you think Free-will cannot poſſibly be proved</hi> (p. 19.) and yet that <hi>e<g ref="char:EOLhyphen"/>very man proves it by his experience,</hi> (p. 20.) and yet again, that <hi>Gods concourſe is urged to take away all manner of Free-will, becauſe his influence doth act irreſiſtibly.</hi> p. 10 and yet again (for all that) that <hi>if we take away Free-will, All vertue and piety and Politie falls to the ground.</hi> (p. 20.) 10. You add abun<g ref="char:EOLhyphen"/>dance of <hi>contradictions</hi> (beſides all theſe) if not to your own printed words, yet to your cleareſt <hi>knowledge</hi> that all is <hi>Falſe.</hi> For you ſay of Mr. <hi>Pierce</hi> that he made <hi>invectives at the Pillars of the Church</hi> (p. 3.) that <hi>common Fame did voice thoſe Reflections to be his.</hi> (ibid.) that <hi>a friend of his did warrant you He was the Author of thoſe Reflections.</hi> (p. 4.) To which you add the <hi>likeneſs of the ſtile;</hi> whereby (if you prove any thing) you prove it was not his; for <hi>Nullum ſimile est idem.</hi> Again, you talk of a <hi>Diſpute</hi> which had been betwixt Mr. <hi>Pierce and you</hi> about a <hi>weighty queſtion,</hi> (p. 1.) and affirm that <hi>Queſtion</hi> to have been touching <hi>Gods Decrees,</hi> (p. 9.) where<g ref="char:EOLhyphen"/>as you <hi>know,</hi> there had not been ever any ſuch thing. Not in <hi>private;</hi> for I cannot heare (upon inquiry) that you ever met under <hi>one Roof,</hi> or ever <hi>ſaw</hi> each others <hi>Faces.</hi> Nay till you lick't up the ſpittle of your <hi>Patron Bradſhaw,</hi> (whom you took upon you to make a <hi>Lord</hi> in your pudendous Dedica<g ref="char:EOLhyphen"/>tory Epiſtle,) and alſo had <hi>railed at Mr. Buſby</hi> for being a <hi>Merciful, Conſcientious</hi> and <hi>Prudent</hi> man, Mr. <hi>Pierce</hi> had not
+<note n="*" place="margin">See his Let. ter to Dr. Heylin. p. 301</note> 
+               <hi>heard</hi> you were in <hi>being.</hi>
+            </p>
+            <p>All the Controverſie therefore twixt him and you, was meerly grounded upon theſe two Queſtions. Firſt, whe<g ref="char:EOLhyphen"/>ther Mr. <hi>Pierce</hi> was the <hi>Author of the Reflections at which</hi> you Rail'd; which you firſt held in the <hi>affirmative,</hi> and now in the <hi>negative;</hi> (for you confeſs, <hi>you were mistaken, and proceeded too ſharply upon that miſtake,</hi> (p. 3.) Secondly,
+<pb n="12" facs="tcp:168965:10"/>
+               <note n="*" place="margin">Wilfulneſſe added to your ingratitude.</note> whether Mr. <hi>Busby</hi> was to be <hi>libelled</hi> by one of his <hi>moſt obli<g ref="char:EOLhyphen"/>ged Scholars,</hi> for <hi>repairing a Publick School at his own char<g ref="char:EOLhyphen"/>ges,</hi> and for deſiring an <hi>Aſſiſtant</hi> (at his <hi>own charges</hi> too) not more for his eaſe, than the good of others: And whether he might not deſire the <hi>Governours,</hi> that his <hi>
+                  <g ref="char:V">Ʋ</g>ſher</hi> might not be ſuffered in attempting a thing ſo unnatural, as the <hi>ſtanding upon his Head,</hi> when there was <hi>Ground</hi> enough whereon to <hi>goe.</hi> Here it was that Mr. <hi>Pierce</hi> diſcovered the <hi>madneſs</hi> of your <hi>Virulence</hi> againſt your <hi>Maſter,</hi> and the <hi>multitude</hi> of your <hi>Lies</hi> againſt the moſt <hi>known Innocence,</hi> and the moſt <hi>palpable</hi> matters of <hi>Fact.</hi> You have not now <hi>one word</hi> to ſay, towards the clearing of your ſelfe from ſo great a charge. And yet, inſtead of repenting, or asking Pardon from your Maſter; you declare <hi>you need none</hi> (p. 5) and that <hi>you cannot ſay leſs then you have done.</hi> (p. 6.) This is that which makes your ſin exceeding ſinful, that you deny it to be a ſin, and reſolve never to mend.</p>
+            <p>That I may not loſe too much time by ſetting you forth in all your colours, I will not diſorder you ſtarched counte<g ref="char:EOLhyphen"/>nance, by taking notice (before the world) how you have laid your ſelf <hi>open</hi> by all your <hi>perſonal reflections</hi> on your Supe<g ref="char:EOLhyphen"/>riours; in particular, on the Learned <hi>Tilenus Junior;</hi> whom you call a <hi>worthleſs unknowing perſon,</hi> how much ſoever you are unworthy to wipe his ſhoes; and how much ſoever you were afraid to make the leaſt anſwer to his <hi>Reflections.</hi> There are but two things more, which I reſolve for the preſent to lay before you.</p>
+            <p>The firſt is your <hi>profeſſion of a ſtrict adherence unto the Let<g ref="char:EOLhyphen"/>ter, without regard to any conſequences,</hi> (p. 2.) Again <hi>you re<g ref="char:EOLhyphen"/>ſolve to acquieſce</hi> in the <hi>Letter</hi> of <hi>the Scripture, in ſpite of all the Tumultuatings, and Agitations of your thoughts againſt it.</hi> (p. 11.) From hence you diſcover to the world, what <hi>Hea<g ref="char:EOLhyphen"/>theniſh</hi> thoughts you have of <hi>God,</hi> when <hi>Eyes,</hi> and <hi>Eares,</hi> and <hi>Heart,</hi> and <hi>Bowels,</hi> are by the common <hi>figure</hi> [Anthro<g ref="char:EOLhyphen"/>popathia] aſcribed to him in Scripture. When St. <hi>Paul</hi> ſaith the <hi>weakneſs,</hi> yea the <hi>fooliſhneſs of God &amp;c.</hi> When our Saviour ſaith he is <hi>the true vine:</hi> Are you reſolved to <hi>ac<g ref="char:EOLhyphen"/>quieſce</hi> in the <hi>Letter</hi> of thoſe Texts where ſuch <hi>figures</hi> are to
+<pb n="13" facs="tcp:168965:10"/>be found, <hi>in ſpite of all the ugly conſequences</hi> which will en<g ref="char:EOLhyphen"/>ſue? See the condition that you are in, by reading <hi>Mr. Pierce</hi> upon this Subject againſt
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>from p.</hi> 28. <hi>to p.</hi> 61.</note> 
+               <hi>Mr. Whitfeilds adhearing to the Letter,</hi> as you have done in the ſame caſe. And yet in other places of the Scripture where God is ſaid to <hi>hate ſin,</hi> and to be of <hi>purer eyes then to behold iniquity,</hi> you are ſo far from adhearing to the <hi>Letter,</hi> that you ſay <hi>you cannot deny</hi> him to be the <hi>Author of Sin.</hi> Which proves your malicious diſ<g ref="char:EOLhyphen"/>affection as well to his <hi>Purity</hi> as his <hi>word.</hi>
+            </p>
+            <p>The ſecond thing I muſt lay before you, is your impertinent bundle of <hi>Latin ſcraps,</hi> which you vainly call a <hi>Philoſophical exercitation concerning Free-will,</hi> and which I call a <hi>bundle</hi> of <hi>Latin ſcraps,</hi> becauſe you have <hi>ſtolne</hi> the ingredients of the hotch potch, (which are by far the <hi>moſt,</hi> and the moſt <hi>mate</hi>-rial parts of the whole) out of <hi>Gaſſendus</hi> his <hi>third tome,</hi> upon the <hi>tenth Book of Diogenes Laertius,</hi> concerning <hi>Epicurus his moral Philoſophy;</hi> without taking notice of <hi>Gaſſendus,</hi> to whom you were beholding for all your treaſure: (except<g ref="char:EOLhyphen"/>ing what you filch from <hi>Mr. Chillingworth.</hi>) I ſpeak my o<g ref="char:EOLhyphen"/>pinion, and the opinion of a Gentleman who firſt directed me to the places, where he had traced you by your foot<g ref="char:EOLhyphen"/>ſteps. If you did jump with <hi>Gaſſend</hi> in ſo many <hi>collections</hi> to the <hi>ſame purpoſe,</hi> and in the <hi>ſame way of application,</hi> (without your knowledge,) I ſhall ask your pardon for my miſtake. Whether its <hi>credible</hi> that you did, let it be judged by the <hi>parallel</hi> which here is added.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Mr. Bagſhaw.</cell>
+                     <cell role="label">Pet. Gaſſend.</cell>
+                  </row>
+                  <row>
+                     <cell>Pag. 13. from lin. 15. &amp;c.</cell>
+                     <cell>Pag. 1616 lin. 33. &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 23.</cell>
+                     <cell>ibd. l. 1.</cell>
+                  </row>
+                  <row>
+                     <cell>p. 14. l. 6, 7, 8, 9.</cell>
+                     <cell>ib. l. 9. &amp;c. from the bottom</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 11, 12.</cell>
+                     <cell>ib. l. 7, 8. from the bottom.</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 16, 17, 18.</cell>
+                     <cell>p. 1617. l. 1, 4, 5.</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 19. 20.</cell>
+                     <cell>p. 1616. l. 4, 5. from the bottom</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 24. 25.</cell>
+                     <cell>p. 1619. l. 43.</cell>
+                  </row>
+                  <row>
+                     <cell>p. 15. l. 2.</cell>
+                     <cell>ib. l. 44.</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 17, 18.</cell>
+                     <cell>p. 1644. l. 20. 21,</cell>
+                  </row>
+                  <pb n="14" facs="tcp:168965:11"/>
+                  <row>
+                     <cell>p. 16. l. 17, 18.</cell>
+                     <cell>p. 1615 l. 12.</cell>
+                  </row>
+                  <row>
+                     <cell>p. 17. l. ult. &amp; penult.</cell>
+                     <cell>p. 1596. l. 28.</cell>
+                  </row>
+                  <row>
+                     <cell>p. 18. l. 6, 7.</cell>
+                     <cell>p. 1602. l. 7. &amp;c. from bottom.</cell>
+                  </row>
+                  <row>
+                     <cell>ib. l. 13, 14, 15, 16, 17, 18, 19.</cell>
+                     <cell>p. 1615. l. 12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mr. Bagſhaw</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>P. 8. The paſſage and applica<g ref="char:EOLhyphen"/>tion [of the <hi>Stoick in Lucian</hi> his <hi>outery,</hi> ſupplying his <hi>want of Argument, crying</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>] is viſibly ſtolne from</cell>
+                     <cell>
+                        <hi>Mr. Chillingworth</hi> his Epiſtle Dedicatory to the King <hi>p.</hi> 3.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Theſe particulars are <hi>many,</hi> (many even to admiration) conſidering the <hi>ſhortneſs</hi> of your <hi>Exercitation,</hi> with which your Printer was not able to fill up <hi>three little leaves,</hi> not<g ref="char:EOLhyphen"/>withſtanding the <hi>largeneſs</hi> of his <hi>Character,</hi> as well as his <hi>many</hi> and <hi>great breaks.</hi>
+            </p>
+            <p>And now (pray) to what purpoſe is the little <hi>all</hi> that you have ſaid?
+<note place="margin">The Latine Exercitation Epitomized.</note> you onely tell <hi>us</hi> as well as you can, (that is, very <hi>improperly</hi>) what every childe could have told you, [That <hi>the Stoicks held one thing,</hi> and the <hi>Platonicks quite another,</hi> and that <hi>if any one has a minde to examine the matter of Free<g ref="char:EOLhyphen"/>will, he may read Bp. Bramhal affirming, and Thomas Hobbs more then Stoically denying,</hi> (what the <hi>Scripture,</hi> you ſay, <hi>af<g ref="char:EOLhyphen"/>firmeth,</hi>) <hi>The Free-will of man.</hi> After which you conclude, that <hi>you believe it for your own part, (as being taught it out of the Scripture,) although you ſee no reaſon for it,</hi> and <hi>cannot conceive how it ſhould be,</hi> yea that <hi>it can as
+<note n="*" place="margin">
+                     <hi>Non dubita<g ref="char:EOLhyphen"/>verim affirma<g ref="char:EOLhyphen"/>re nihil eſſe quod minus probari poſſe putem</hi> p. 19.</note> little be proved to be, as whatſoever it is which is moſt impoſſible;</hi> And yet (you ſay in the cloſe of all
+<note n="†" place="margin">
+                  <hi>Cum nemo non experiatur ſe, quando velit, non actionem modò, ſed &amp; voluntatem immutare poſſe; nemo vereatur aſſe<g ref="char:EOLhyphen"/>rere ſibi cam, cujus vim</hi> quotidiè ſentit &amp; actionem exerit, &amp;c. p. 20.</note> 
+               <hi>That every man proves by his own expe<g ref="char:EOLhyphen"/>rience, that he can change his action, yea and his will too when he pleaſeth.</hi> And therefore <hi>you forbid him to deny Free-will,
+<pb n="15" facs="tcp:168965:11"/>whoſe operation and force he daily feeleth within himſelf.</hi>] O brave Uſher! That is <hi>impoſſible</hi> to be proved, which is <hi>daily</hi> proved by <hi>experience.</hi> It is the fulleſt of <hi>Difficulties,</hi> al<g ref="char:EOLhyphen"/>though the <hi>cleareſt</hi> and <hi>plaineſt</hi> thing, and the moſt <hi>unde<g ref="char:EOLhyphen"/>niable</hi> to be imagined. Go thy wayes without a Peer, both as a <hi>Diſputant,</hi> and a <hi>Divine.</hi>
+            </p>
+            <p>I will not ſwinge you for your
+<note n="*" place="margin">
+                  <hi>p.</hi> 16. <hi>l. vit. &amp; p.</hi> 17. <hi>l.</hi> 1. <hi>uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad l.</hi> 7.</note> 
+               <hi>falſe Latine,</hi>
+               <note place="margin">Falſe Latin pardoned</note> in writing a period of no leſſe then <hi>eight lines,</hi> without a principal Verb to make it ſenſe; nor for your Ignorance in the uſe of the words
+<note n="†" place="margin">
+                  <hi>p.</hi> 17. <hi>l.</hi> 5.</note> 
+               <hi>Certa</hi> and <hi>Infallibilis,</hi> as if they were the ſame with <hi>Neceſſitativa;</hi> nor for putting <hi>[Certo]</hi> in ſtead of <hi>[ut neceſſa<g ref="char:EOLhyphen"/>ria]</hi> p. 17. l. 12. Nor for ſaying <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the <hi>very Greek</hi> for <hi>wretched,</hi> implying that you knew not the juſt Impor<g ref="char:EOLhyphen"/>tance of the word; nor yet for diverſe other things which I have promiſed you not to mention; but onely ask you why you ſay, <hi>That no man hitherto hath been able to explain, how humane liberty can conſiſt with Divine preſcience, Salvo utriuſ<g ref="char:EOLhyphen"/>que jure.</hi> (p. 20.) Dare you write your ſelf a <hi>Student,</hi> with<g ref="char:EOLhyphen"/>out having ſtudied ſo much as <hi>one</hi> of thoſe <hi>many,</hi> who have often and clearly performed that task, which you ſay was <hi>never performed by any?</hi> Not to ſpeake of <hi>Latin</hi> writers, <hi>Mr. Thorndike</hi> in Engliſh hath done it largely, and <hi>Mr. Pierce</hi> (long before) had done it often. If you have read his ſeveral Books, why do you write againſt your know<g ref="char:EOLhyphen"/>ledge? If you never read them, (which is moſt likely, ſince you never cited a <hi>Line</hi> from them, but onely railed at them in <hi>general</hi>) why raile you at that, which you never read? your meaning is, that <hi>you your ſelf</hi> are not able to conceive, much leſſe to <hi>explain,</hi> how <hi>humane Liberty</hi> can conſiſt with <hi>Gods Preſcience.</hi> Whereby you virtually confeſs, that it cannot conſiſt with Gods <hi>abſolute Decrees</hi> of <hi>Election</hi> and <hi>Reprobation.</hi> And ſo you muſt deny thoſe decrees to be <hi>abſolute,</hi> becauſe you hold the <hi>Free-will</hi> of <hi>man.</hi> And again you muſt deny the <hi>Free-will</hi> of <hi>man,</hi> becauſe you hold thoſe Decrees to be <hi>Abſolute.</hi>
+            </p>
+            <p>Well, Sir. Becauſe the thing which you call <hi>a Latine Ex<g ref="char:EOLhyphen"/>ercitation</hi>
+               <pb n="16" facs="tcp:168965:12"/>amounts to no more in effect, then a <hi>Declaration of your ignorance,</hi> how <hi>Free-will</hi> and <hi>Preſcience</hi> are recon<g ref="char:EOLhyphen"/>cileable, (this in God, and that in man,) I will enlighten <hi>your</hi> underſtanding, as Mr. <hi>Pierce</hi> his Books have enlight<g ref="char:EOLhyphen"/>ned <hi>mine.</hi> And in order to this end, I will not <hi>ſteal,</hi> but (fairely and thankfully) onely borrow ſome of his <hi>Light.</hi> All I ſhall do ſhall be to explain it to you in Latine, that ſo in every reſpect I may fit my Remedy to your Diſeaſe. If it chance toeffect the cure, you will acknowledge me to be, of all the men in the world,</p>
+            <closer>
+               <signed>Your ſureſt friend in time of need. <hi>M. O.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="religious_tract">
+            <pb n="17" facs="tcp:168965:12"/>
+            <head>Conciliatio facilis &amp; perſpicua Praeſci<g ref="char:EOLhyphen"/>entiae Divinae cum Libero Hominis Arbitrio.</head>
+            <p>Amirabilis illa ſive ſciendi ſive percipiendi ratio, quae Patri lu<g ref="char:EOLhyphen"/>minum, tum ſemper, tum ſoli competit, longè exſuperans om<g ref="char:EOLhyphen"/>nem motum Ordinemque Temporis, ſuâ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſimplicitate mentis noſtrae aciem percellens, rectiſſimè (opinor) concipiatur, ſi dixerimus Aeternum illum uno ſimplici intuitu res omnes nôſſe &amp; contemplari, ſive praeteritas, ſive futuras, (quoad <hi>nos</hi>) ut jam praeſentes (quoad <hi>Se.</hi>) Ideoque eam Boethius, non <hi>Praeſcientiam</hi> ſed <hi>ſcientiam,</hi> nec tam <hi>Praevidentiam,</hi> quàm <hi>Providentiam,</hi> dicendam cenſet. Quae quidem Pro<g ref="char:EOLhyphen"/>videntia, Rerum futurarum proprietates &amp; Naturas, non mu<g ref="char:EOLhyphen"/>tat, ſed expendit; Expendit verò, prout <hi>ſunt,</hi> reſpectu <hi>Sui;</hi> id eſt, prout ſunt <hi>futurae,</hi> reſpectu <hi>Temporis.</hi> Nam ut <hi>Praeſentium</hi> Perſpicientia nullam connotat Neceſſitatem, ipſis inditam Re<g ref="char:EOLhyphen"/>bus, quae jam nunc evenêre; ita neque <hi>Futurorum</hi> Praeviſio, Re<g ref="char:EOLhyphen"/>bus ipſis, quae ſunt futurae, neceſſitatem omnino ullam concipi<g ref="char:EOLhyphen"/>atur injicere. Quia quicunque res novit cernitve, eaſdem cernit novitque, quemadmodum <hi>ſunt</hi> ex parte Rei; non autem ex adverſo quemadmodum <hi>non ſunt.</hi> Et quidem Dei ſcientia nequaquam Res conturbare, circa quas verſatur, putanda est; ſed ad omnia eventa ſe exerere, non tantum <hi>quae</hi> eveniunt, ſed &amp; <hi>quemadmodum</hi> eve<g ref="char:EOLhyphen"/>niunt, ſive <hi>contingenter</hi> hoc fit, ſive etiam <hi>neceſſario.</hi> Exem<g ref="char:EOLhyphen"/>plicauſâ.) Quando hominem ſolo incedentem video, eodemque plane momento ſolemin Coelo collucentem; Alterum conſpi<g ref="char:EOLhyphen"/>cio, ut <hi>voluntarium; ut</hi> Naturale, alterum. Et quamvis ea
+<pb n="18" facs="tcp:168965:13"/>temporis articulo, quo utrumque <hi>fieri</hi> conſpicio ut reapſe <hi>fiant</hi> neceſſe ſit, (ſecus enim non conſpexiſſem) priùs tamen quàm facta ſunt, <hi>Unius</hi> tantummodo Neceſſitas erat ut fieret, nempe Reſplendentiae in Coelo Solis; <hi>Alterius</hi> verò omnino nulla, vide<g ref="char:EOLhyphen"/>licet Inceſsûs in ſolo Hominis. <hi>Ille</hi> ſiquidem non potuit non lucere, ut qui ſit Agens <hi>Naturale;</hi> At benè potuit <hi>Hic</hi> non incedere, ut qui ſit Agens <hi>Voluntarium.</hi>
+            </p>
+            <p>Ex quibus praemiſſis ſtatim ſequitur, duplicem eſſe Neceſſi<g ref="char:EOLhyphen"/>tatem. <hi>Abſolutam</hi> alteram; Alteram verò ex <hi>Hypotheſi.</hi> Abſoluta eſt Illa, per quam Res non poteſt non moveri, quando eam quid actu movet, <hi>Suppoſitiva</hi> Illa, per quam damnabi<g ref="char:EOLhyphen"/>tur quiſquis eſt qui hinc abierit non renovatus, Poſterior Ne<g ref="char:EOLhyphen"/>ceſſitas, (non item &amp; Prior,) cùm hominis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, tùm Decretorum Dei Conditionalitatem, quàm optimè admittit. E. G. Ego nunc ſcribo, me<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſcripturum ab aeterno praevidit Deus: Non tamen inde ſequitur, me nondum ſcribentem non potuiſſe non ſcribere, potui enim, ſi vellem, meditando, aut le<g ref="char:EOLhyphen"/>gendo, &amp; non ſcribendo, iſtud Temporis contriviſſe. Licet enim quodcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> praevidit Deus, id ipſum eveniat neceſſe eſt; neceſſe eſt tamen ut eveniat, eâ ſolâ ratione, quâ, Qui falli non poteſt, eventurum praeviderat. (Verbi gratiâ.) Praevidit Ille me ſcripturum, <hi>non ex Neceſſitate,</hi> ſed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Ita ut ejus praevidentia non omnino <hi>afferat</hi> Neceſſitatem, <hi>Abſolutam;</hi> ſed <hi>inferat</hi> ſolummodo Neceſſitatem <hi>ex Hypo<g ref="char:EOLhyphen"/>theſi.</hi> (Attendamus ſodes, quantum immane diſtent, tum ab <hi>Illatione Cauſalitas;</hi> tum Neceſſitas <hi>Abſoluta,</hi> ab eâ quae eſt Conditionata.) Facilè convenit inter omnes, eſſe ſimplicitèr ne<g ref="char:EOLhyphen"/>ceſſarium, ut quodcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> exequor, id Deus praevideat: verun<g ref="char:EOLhyphen"/>tamen Deus, praevidendo actum meum <hi>voluntarium,</hi> non facit ut abeat in <hi>Neceſſarium;</hi> niſi ex hac ſuppoſitione, quod ego eum <hi>confecerim,</hi> aut jam <hi>conficiam.</hi>
+            </p>
+            <p>Si apud Deum praeſentia ſint, (ut <hi>ſunt</hi> quidem) omnia; Ip<g ref="char:EOLhyphen"/>ſius praeviſio, neceſſe eſt, ut eodem ferè redeat, quò noſtra viſio. <g ref="char:V">Ʋ</g>t igitur, Hominem cùm intueor pro Arbitratu ſuo ſaltantem, neceſſe habet ut <hi>illud</hi> faciat, quod facientem eum intueor, meus tamen intuitus id non facit neceſſarium: ſic etiam proſpectus Ipſius Des De futuro hominis <hi>peccato,</hi> certitudinem <hi>innuebat,</hi> itaſe Rem habituram; Rem autem <hi>neceſſariam,</hi> aut non volun<g ref="char:EOLhyphen"/>tariam,
+<pb n="19" facs="tcp:168965:13"/>non <hi>reddebat.</hi> Rem enim <hi>certam</hi> eſſe poſſe, quoad <hi>Even<g ref="char:EOLhyphen"/>tum,</hi> quae tamen non ſit <hi>Neceſſaria,</hi> reſpectu <hi>Cauſae;</hi> nihil ha<g ref="char:EOLhyphen"/>bet in ſe novi apud Animum penſitantem, qui diſtinguere aſſue<g ref="char:EOLhyphen"/>verit inter <hi>Omnipotentiam</hi> Dei, &amp; <hi>Omniſcientiam,</hi> inter <hi>Praeſcitum</hi> &amp; <hi>Decretum;</hi> inter <hi>Certum</hi> &amp; <hi>Neceſſarium;</hi> in<g ref="char:EOLhyphen"/>ter <hi>Naturale</hi> &amp; <hi>Voluntarium;</hi> inter<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> id quod Sequitur per modum <hi>Conſequentiae,</hi> &amp; id quod ſequitur per modum <hi>Con<g ref="char:EOLhyphen"/>ſequentis.</hi> Et quidem ſi ab erroribus edocto <hi>meis,</hi> quibus inge<g ref="char:EOLhyphen"/>nuè agnoſco me aliquando praepeditum, (tunc temporis nimirum, cùm alius fuerim, quàm nunc ſum) liceat mihi de <hi>alienis</hi> ſen<g ref="char:EOLhyphen"/>tentiam ferre; In <hi>aliis</hi> videre mihi videor tot hallucinationes, ab infortunio <hi>miſcendi</hi> ea, quae ego modò ſeparavi, natas, quot ab aliâ infelicitate quacunque, quam quidem mihi datum eſt cogi<g ref="char:EOLhyphen"/>tando aſſequi.</p>
+            <p>Ex omnibus autem hucuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dictis, ineluctabili modo videtur ſequi; Nullam <hi>aliam</hi> Neceſſitatem, praeter illam <hi>ſuppoſitivam,</hi> cum Actu Libero, &amp; fortuito, ſeu voluntario, poſſe conſiſtere. (Exempli gratiâ.) Cùm cerno aliquem <hi>ſedentem,</hi> neceſſe eſt ut ſimul <hi>ſedeat;</hi> non tamen <hi>abſolutè,</hi> (ſive ex neceſſitate ante<g ref="char:EOLhyphen"/>cedente,) ſed hoc <hi>ſuppoſito,</hi> eum <hi>tum ſedere;</hi> quippe cujus <hi>conſeſſus</hi> res eſt prorſus <hi>ultronea, fortuita,</hi> id eſt, <hi>Contin<g ref="char:EOLhyphen"/>gens.</hi> Conſedit enim tum, cùm illi eſſet collubitum, &amp; (ordi<g ref="char:EOLhyphen"/>nario Dei concurſu nequaquam ſe ſubducente) exſurgere poteſt, quandocun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> illi viſum fuerit.</p>
+            <p>Aveo doceri, (ſi haec non ſit) quaenam ſit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> lo<g ref="char:EOLhyphen"/>quendi ratio. Nimirum, ſuo <hi>Interdicto</hi> ſanctione communito, Deum meam contumaciam poenae obnoxiam reddidiſſe; ſuo au<g ref="char:EOLhyphen"/>tem decreto <hi>non impediendi</hi> aut <hi>ſinendi,</hi> reliquiſſe me <hi>in manu Conſilii</hi> mei; &amp; eouſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſub peccato, ut peccare poſſim &amp; perire, ſi velim modò: adeo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſciendo me peccare, (aut prae<g ref="char:EOLhyphen"/>ſciendo me peccaturum) nihil illum omnino aut influxûs aut efficaciae, in peccatum meum exerere; ideo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tum <hi>Praevarica<g ref="char:EOLhyphen"/>tionem,</hi> tum <hi>Perditionem,</hi> à meipſo in ſolidum dimanare.</p>
+         </div>
+         <div type="letter">
+            <pb n="20" facs="tcp:168965:14"/>
+            <head>To Mr. <hi>HENRY HICKMAN Titular</hi> Fellow of <hi>Magd. Coll.</hi> and <hi>Preten<g ref="char:EOLhyphen"/>ded</hi> Parſon of St. <hi>Aules</hi> in <hi>Oxford,</hi> Touching a Libel ſubſcribed by <hi>THEOPHILUS CHURCHMAN.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat you may <hi>ſee</hi> my Reſolution not to imitate Mr <hi>Bag<g ref="char:EOLhyphen"/>ſhaw,</hi> by uſing ſharpneſs towards <hi>you,</hi> for what was done by <hi>another</hi> man; And that you may <hi>feel</hi> for what Rea<g ref="char:EOLhyphen"/>ſons I do conclude you (though not the <hi>Author,</hi> yet) the <hi>Compiler</hi> of that Libel, which is Intitled <hi>[A Review of the Certamen Epiſtolare]</hi> and fictitiouſly ſubſcribed by <hi>Theophi<g ref="char:EOLhyphen"/>lus Churchman,</hi> (of which hereafter;) I will preſent you with a Catalogue of ſeveral <hi>Plagiariſmes</hi> and <hi>stealths,</hi> which could hardly be committed, unleſs by <hi>You.</hi> Your own <hi>Right Eye</hi> is not liker unto your <hi>Left,</hi> then the Thieveries I will ſhew you are like to thoſe, which gained you the name of the * <hi>New Bathyllus,</hi> and made you fit to be compared with filtching <hi>Celſus,</hi> as well as reſembled to <hi>Aeſop's Crow.</hi> This is not all I have to ſay, for your being the <hi>Author</hi> (I ſhould have ſaid the <hi>Compiler,</hi> or <hi>Stitcher-up</hi>) <hi>of the Joce-Seria,</hi> for which I intend to repreſent you both to your <hi>ſelfe,</hi> and <hi>common people;</hi> But this is that with which I choſe to begin my work, which being done, I ſhall go on to the other Rea<g ref="char:EOLhyphen"/>ſons of my Concluſion; and then proceed to the vindication
+<pb n="21" facs="tcp:168965:14"/>of that Reverend, Learned, and Renowned Champion of the Church, (I mean Dr. <hi>Heylin</hi> of <hi>Lacies Court</hi>) whom you have <hi>wilfully ſlandered</hi> in an unpardonable Degree. And whom as I honour for the great profit I have already recei<g ref="char:EOLhyphen"/>ved by his <hi>Coſmography,</hi> (by which alone I am incouraged to be a diligent reader of all his works) ſo I ſhall honour him more then ever, for being profaned by the Pen of ſo <hi>obſcene</hi> a <hi>Pamphleter</hi> as your ſelfe.</p>
+            <p>Should I recite as many <hi>ſtealths,</hi> as other men have ob<g ref="char:EOLhyphen"/>ſerved, as well as I, (for I will not be ſo diſhoneſt, as to pretend they are all of my collecting, which were ſent me from a perſon whoſe very Name is a ſtranger to me, though by a ſtrict examination I find his collections to be true) I ſhould be in ſome danger to make a volume of your <hi>purloy<g ref="char:EOLhyphen"/>nings.</hi> But I will imitate the method, and exceed the Bre<g ref="char:EOLhyphen"/>vity which I find obſerved by Mr. <hi>Pierce;</hi> whoſe publick <hi>diſcovery</hi> of the diſhoneſt <hi>Trade</hi> that you were driving, gave me the Hint and Curioſity to make another; and ſo to find out the meaning of <hi>Theophilus Churchman.</hi> The taking up of citations at <hi>ſecond hand</hi> (of which I told your Brother <hi>Bagſhaw</hi>) is a generous fault, in compariſon of ſtealing the <hi>wit</hi> of other men, with their very <hi>words</hi> too: More than <hi>an hundred</hi> of ſuch crimes you are already convicted of, And therefore the fewer ſhall ſerve my Turne, to ſhew the affi<g ref="char:EOLhyphen"/>nity of this <hi>ſecond</hi> Pamphlet with your <hi>firſt.</hi> But if you think otherwiſe, I will convict you hereafter with many more. The greateſt <hi>Robberies</hi> are again committed upon that Learned Gentleman Mr. <hi>Morice,</hi> but reſerving thoſe to the later end of the <hi>Indictment,</hi> I begin with the ſuffe<g ref="char:EOLhyphen"/>rings of other men.</p>
+            <pb n="22" facs="tcp:168965:15"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Mr. <hi>John Goodwin's Triumviri.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Theophilus Church<g ref="char:EOLhyphen"/>man.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The young Bear, who in<g ref="char:EOLhyphen"/>tending to do his Maſter, be<g ref="char:EOLhyphen"/>ing aſleep in the fields, a courteſie, by mauling a poor flie that troubled his reſt, ſtrook her paw, or talons, into his head, and ſlew him. <hi>pag.</hi> 225. <hi>l.</hi> 26.</cell>
+                     <cell>A young Bear, who inten<g ref="char:EOLhyphen"/>ding to do his Maſter, being a ſleep in the field, a courteſie, by mauling a poor fly that troubled his reſt, ſtrook her paw, or talons into his head and ſlew him. <hi>page.</hi> 138: <hi>line</hi> 1.</cell>
+                  </row>
+                  <row>
+                     <cell>He is not <hi>ex genere Aquili<g ref="char:EOLhyphen"/>no;</hi> he is ſo active in catch<g ref="char:EOLhyphen"/>ing flies. <hi>p.</hi> 144. <hi>l.</hi> 1.</cell>
+                     <cell>He is not <hi>de genere Aquili<g ref="char:EOLhyphen"/>no,</hi> he flieth out—to catch a flie. <hi>p.</hi> 134. <hi>lin. Antepen.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Pelagius Redivivus</hi> (ſuppoſed to be) <hi>written by Dr.</hi> Featly.</cell>
+                     <cell role="label">
+                        <hi>Churchman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Zabarel</hi> having coyned as he thought, a new diſtinction unheard of before,—<hi>Ego hanc ſolutionem primus inveni (In poſter. Analyt.)</hi> Yet after<g ref="char:EOLhyphen"/>wards he ingenuouſly confeſ<g ref="char:EOLhyphen"/>ſeth, that peruſing <hi>Gandaven<g ref="char:EOLhyphen"/>ſis</hi> his writings upon the ſame Argument, there he found the ſelfe ſame diſtinction; and it much rejoyced his heart, that ſo acute a Philoſopher as <hi>Gandavenſis,</hi> ſhould hit upon the ſame conceit. <hi>Epiſt. before</hi> 2d. <hi>Parallel,</hi> p. 8. <hi>lin. Antepen.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Zabarel</hi> had coyned as he thought a new diſtinction not heard of before, <hi>Ego hanc diſtinctionem primus in<g ref="char:EOLhyphen"/>veni, (In Anal. poſt.)</hi> Yet afterwards he ingenuouſly confeſſeth that reading <hi>Gan<g ref="char:EOLhyphen"/>davenſis</hi> on the ſame ſub<g ref="char:EOLhyphen"/>ject, he found the ſelfe<g ref="char:EOLhyphen"/>ſame diſtinction, and much rejoyced that ſo acute a Philoſopher as <hi>Gandavenſis</hi> ſhould hit on the ſame con<g ref="char:EOLhyphen"/>ceit. <hi>p.</hi> 8. <hi>lin.</hi> 20.</cell>
+                  </row>
+                  <pb n="23" facs="tcp:168965:15"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Mr.</hi> Hales <hi>Golden Re<g ref="char:EOLhyphen"/>mains.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Churchman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Is like unto a ſuborned witneſs: it never doth help ſo much while it is preſumed to be ſtrong, as it doth hurt when it is diſcovered to be weak. 1 <hi>Sermon</hi> p. 17. <hi>lin.</hi> 4.</cell>
+                     <cell>Is like unto a ſuborned witneſs: it never doth help ſo much while it is preſumed to be ſtrong, as it doth hurt when it is diſcovered to be weak. <hi>p.</hi> 41. <hi>lin.</hi> 4.</cell>
+                  </row>
+                  <row>
+                     <cell>Fore-poſſeſt with ſome o<g ref="char:EOLhyphen"/>pinion, as <hi>Antipheron Orieles,</hi> in <hi>Ariſtotle</hi> thought that every where he ſaw his own ſhape and picture going afore him. 1. <hi>Serm.</hi> p. 4. <hi>l.</hi> 28.</cell>
+                     <cell>Prepoſſeſt with an opinion, as <hi>Antipheron Orieles</hi> in <hi>Ari<g ref="char:EOLhyphen"/>ſtotle,</hi> think that every where he ſees his own ſhape and picture going before him. <hi>p.</hi> 95. <hi>lin.</hi> 16.</cell>
+                  </row>
+                  <row>
+                     <cell>As Chymiſts deal with natural bodies, torturing them do extract that out of them which God and nature never put in them. <hi>Ibid</hi> p. 3. <hi>lin.</hi> 5.</cell>
+                     <cell>As ever Chymiſts did upon thoſe Bodies, out of which he hoped to extract ſomething which God and Nature never put in them. <hi>p.</hi> 76. <hi>lin.</hi> 6.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Bp. <hi>Lincolne's Holy Table.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Churchman</hi> alias <hi>Hick<g ref="char:EOLhyphen"/>man.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pag.</hi> 2. (<hi>lin.</hi> 15.) I will give you a ſhort taſte of his faining and his failing. (<hi>l.</hi> 16.) He faineth the—(17.) he fails, becauſe—(<hi>lin.</hi> 20.) He fains, that—(<hi>lin.</hi> 21.) He fails, for—(<hi>lin.</hi> 22) He fains that—(<hi>lin.</hi> 23.) He fails, for—(<hi>l</hi> 25.) He fains the—(<hi>l.</hi> 28.) He fails, —(<hi>l.</hi> 30.) He fains, that—&amp;c.</cell>
+                     <cell>
+                        <hi>Pag.</hi> 8. <hi>lin.</hi> 2. now let's take notice of the Doctors failings—(<hi>lin.</hi> 6.) He feigns this—(<hi>l.</hi> 8.) He faileth for—(<hi>lin.</hi> 19.) He feigneth the—(<hi>lin.</hi> 22.) He feigneth each—[Note that this is in his Advertiſe<g ref="char:EOLhyphen"/>ment behind his firſt Book.]</cell>
+                  </row>
+                  <pb n="24" facs="tcp:168965:16"/>
+                  <row>
+                     <cell role="label">Bp. <hi>of Lincolne's Holy Table.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Churchman</hi> alias <hi>Hick<g ref="char:EOLhyphen"/>man.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Let Doctor <hi>Coal</hi> kindle as red as he pleaſeth. <hi>ib. p.</hi> 39. <hi>l.</hi> 16.</cell>
+                     <cell>Would not Dr. <hi>Coal</hi> kindle upon it? <hi>p.</hi> 32. <hi>lin.</hi> 18.</cell>
+                  </row>
+                  <row>
+                     <cell>This great good work, or piety of theſe times. <hi>p.</hi> 83. <hi>l.</hi> 9.</cell>
+                     <cell>The piety of the times or the good work in hand. <hi>p.</hi> 103. <hi>l.</hi> 7.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Mr.</hi> Morice <hi>Coena quaſi</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</cell>
+                     <cell role="label">
+                        <hi>Churchman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To reſearch—is with <hi>Rode<g ref="char:EOLhyphen"/>rick</hi> of <hi>Spain,</hi> to break open a Temple, where they ſhall only find Images of men ar<g ref="char:EOLhyphen"/>med againſt them. <hi>p.</hi> 45. <hi>lin.</hi> 5.</cell>
+                     <cell>To ſearch—is with <hi>Rode<g ref="char:EOLhyphen"/>rick</hi> of <hi>Spain,</hi> to break open a Temple, in which he ſhall on<g ref="char:EOLhyphen"/>ly find Images of men armed againſt him. <hi>p.</hi> 84. <hi>lin. penult.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Though I think they need as few grains of allowance to make them paſſable, as any ge<g ref="char:EOLhyphen"/>neration of men, <hi>p.</hi> 93. <hi>lin.</hi> 20.</cell>
+                     <cell>Though I think they need as few grains, to make them currant as any ſort of men. <hi>p.</hi> 152. <hi>l. Antep.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Diogenes</hi> ſeeing a roving Archer, ran to ſtand at the mark as the ſafeſt place; ſo ſurely all the—ſhaſts are ſhot ſo wide, that I may willingly chuſe to keep my ſelf at this mark, yet never fear to be hurt with any of their Ar<g ref="char:EOLhyphen"/>rows. <hi>p.</hi> 79. <hi>lin. antep.</hi>
+                        <q xml:lang="lat">
+                           <l>Es cùm magna malae ſupereſt audacia Cauſae,</l>
+                           <l>Creditur a multis fiducia.—<hi>p. 76.</hi> lin. <hi>13.</hi>
+                           </l>
+                        </q>
+                     </cell>
+                     <cell>Theſe Arrows—are all ſhot at rovers and the—need only with <hi>Diogenes</hi> go to the mark at which the—ſhould have aim'd, and hee'l find that no one arrow had the good hap to be ſhot nere it. <hi>p.</hi> 64. <hi>lin.</hi> 4.
+<q xml:lang="lat">
+                           <l>Et cùm magna malae ſupereſt audacia Cauſae,</l>
+                           <l>Creditur a multis fiducia.—<hi>p. 138.</hi> l. <hi>13.</hi>
+                           </l>
+                        </q>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>As <hi>Caracalla</hi> dealt with his Brother <hi>Geta, ſit inter divos modò non intervivos. p.</hi> 211. <hi>l.</hi> 39</cell>
+                     <cell>We know who ſaid, <hi>ſit divus modò non ſit vivus.</hi> pag. 126. <hi>l.</hi> 6.</cell>
+                  </row>
+                  <pb n="25" facs="tcp:168965:16"/>
+                  <row>
+                     <cell role="label">Mr. <hi>Morice Coena quaſi κοινή.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Churchman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Albeit they are <hi>Symboli<g ref="char:EOLhyphen"/>zantia Elementa,</hi> that there<g ref="char:EOLhyphen"/>fore they are <hi>facilè tranſmu<g ref="char:EOLhyphen"/>tabilia.</hi> p. 252. <hi>lin.</hi> 5. <hi>See lin.</hi> 28.</cell>
+                     <cell>We judge thoſe Elements ſymbolical, which are moſt eaſily tranſmuted. <hi>p.</hi> 154. <hi>lin. antep. See ib. lin. ult</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wet with the common ſhowr of folly. <hi>p.</hi> 64. <hi>lin. pen.</hi>
+                     </cell>
+                     <cell>A few ſoft drops of the common ſhowr of folly—<hi>pag.</hi> 165. <hi>lin.</hi> 7.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>De occultis non judicat Ec<g ref="char:EOLhyphen"/>cleſia.</hi> p. 136. <hi>l.</hi> 12.</cell>
+                     <cell>
+                        <hi>Et de occultis non judicat Eccleſia.</hi> p. 43. <hi>lin. antep.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Whether <hi>Sat benè,</hi> I ſhall not ſay, but I am ſure not <hi>Sat citò. Pref.</hi> p. 5. <hi>lin.</hi> 6.</cell>
+                     <cell>
+                        <hi>Sat citò,</hi> I am ſure whether <hi>ſat benè</hi>—p. 175. <hi>lin.</hi> 2.</cell>
+                  </row>
+                  <row>
+                     <cell>Prompted by <hi>Balak</hi> to ſee but the utmoſt part of them, and not to ſee them all,—<hi>ibid.</hi> p 9. <hi>lin.</hi> 9,</cell>
+                     <cell>Only with <hi>Balaam</hi> he looks on the utmoſt part of it, and will not ſee it all—<hi>pag.</hi> 133. <hi>lin.</hi> 26.</cell>
+                  </row>
+                  <row>
+                     <cell>Rather operate upon the pillars, than the rails of the Tabernacle: (<hi>and then follows lin. pen.</hi>) I envy that glory to <hi>Hortenſius,</hi> that never enga<g ref="char:EOLhyphen"/>ged in a Civil war. <hi>Pref.</hi> p. 14. <hi>lin.</hi> 36.</cell>
+                     <cell>Rather ſtrengthen the <hi>Pil<g ref="char:EOLhyphen"/>lars</hi> than adorn the <hi>rails</hi> of the Lords houſe. [<hi>Ther's more of Mr.</hi> Morice <hi>his notion in that place, lightly changed, and then follows,</hi>] hath been the glory of ſome, that they ne<g ref="char:EOLhyphen"/>ver engaged in a Civil war. <hi>pag.</hi> 159. <hi>lin.</hi> 21.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">That I may not be Voluminous, but rather make ſhort work, I ſhall onely ſhew you by way of Reference (point<g ref="char:EOLhyphen"/>ing out with my finger) to whom you were beholding for other things.</cell>
+                  </row>
+                  <pb n="26" facs="tcp:168965:17"/>
+                  <row>
+                     <cell role="label">
+                        <hi>Churchman.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Francis Rous.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Concerning King <hi>James</hi>'s ſaying, of Predeſtination. <hi>pag.</hi> 140. <hi>lin.</hi> 24. <hi>See</hi>
+                     </cell>
+                     <cell>
+                        <hi>Francis Rous</hi> in his <hi>Teſtis veritatis,</hi> or, <hi>Doctrine of K.</hi> James. <hi>p.</hi> 3. <hi>l.</hi> 3.</cell>
+                  </row>
+                  <row>
+                     <cell>Concerning <hi>A. B. Ban<g ref="char:EOLhyphen"/>croft</hi>'s approving Mr. <hi>Roger</hi>'s Book on the Articles. <hi>p.</hi> 116. <hi>l.</hi> 15. <hi>See</hi>
+                     </cell>
+                     <cell>Ibid. p. 53. lin. 22, &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>Concerning the Arminians deſtroying the Articles of Religion, by your opinion; <hi>Title-page, lin.</hi> 22. <hi>See</hi>
+                     </cell>
+                     <cell>Ibid. p. 58.</cell>
+                  </row>
+                  <row>
+                     <cell>Concerning Bp. <hi>Monta<g ref="char:EOLhyphen"/>gues</hi> cenſuring the Geneven<g ref="char:EOLhyphen"/>ſes, <hi>Epiſt. pag.</hi> 2. <hi>See</hi>
+                     </cell>
+                     <cell>Dr. <hi>Owen's</hi> long Preface to his Book of Perſeverance.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now beſides theſe Authors whom you have plundred, I know not how many there are beſides, whom you include in your <hi>Et caetera,</hi> as ſoon as you have named Dr. <hi>Davenant</hi> and Dr. <hi>Twiſſe;</hi> whoſe Books having not read, I know no more of your <hi>ſtealths</hi> from them, than your ſelf have con<g ref="char:EOLhyphen"/>feſſed in general Termes, and therefore require you to give in a Catalogue of particulars. Yet I can tell you where you had your <hi>quiſquilious Levity,</hi> and <hi>lifting up a pen,</hi> (p. 13. &amp; p. 77.) even from the <hi>Triumviri</hi> of Mr. <hi>Goodwin.</hi> And where you had your being <hi>poſſeſt with an invincible indig<g ref="char:EOLhyphen"/>nation,</hi> &amp;c. (p. 19. l. 6.) even from Dr. <hi>Peter Heylin.</hi> So the <hi>Dr's hard grating your ſtile</hi> (Pref. p. 7.) is the ſecond time ſtolne from Mr. <hi>Goodwin.</hi> Some things you filtcht from Dr. <hi>Browns vulgar Errours,</hi> as when you ſay (p. 7. <hi>there is nothing above the line, or beyond the extemporary ſententioſity, of a ploughman or Butcher.</hi>] Your playing with <hi>Ne hili</hi> upon the name of Dr. <hi>Heylin</hi> (p. 13.) is <hi>verbatim</hi> ſtolne from Mr. <hi>Fuller's Reply.</hi> Many of your cleaneſt and beſt expreſſions are palpably ſtolne from Mr. <hi>Pierce,</hi> (as I could demonſtrate if I had time.) I could alſo tell you of many ſtealths in your firſt Rapſody, which eſcaped the <hi>notice</hi> of Dr. <hi>H.</hi> and Mr. <hi>P.</hi> But <hi>hereafter</hi> of <hi>That,</hi> if occaſion ſerves.</p>
+            <pb n="27" facs="tcp:168965:17"/>
+            <p> And thus you have my firſt Reaſon, why the Libellous <hi>Joco-ſeria</hi> ought to lie at your Dore. My ſecond is taken from your forgetfulneſs of the <hi>part</hi> you were to <hi>act,</hi> when having ſpoken of Mr. <hi>Hickman</hi> in the <hi>third perſon</hi> only (as far as p. 23.) you <hi>there</hi> betray your ſelf, by ſpeaking plainly in the <hi>firſt.</hi> And this is done no leſs than <hi>twiſe</hi> in one Section (p. 23, &amp; 24.) So that <hi>Churchman</hi> is diſcovered to be a <hi>Magdalen Colledge man;</hi> and no one there, beſides <hi>your ſelf,</hi> could be ſo <hi>thieviſh,</hi> or ſo <hi>obſcene,</hi> or ſo <hi>ſlanderouſly ma<g ref="char:EOLhyphen"/>licious</hi> to Dr. <hi>Heylin,</hi> or ſo partially affected to Mr. <hi>Hick<g ref="char:EOLhyphen"/>man,</hi> (who has too much of their <hi>Laughter,</hi> to think he has any of their <hi>Love,</hi>) as to compile ſuch a <hi>Libel</hi> in your <hi>be<g ref="char:EOLhyphen"/>half.</hi> My third Reaſon is, Becauſe although in the <hi>Title<g ref="char:EOLhyphen"/>page</hi> the <hi>Libel</hi> is pretended to have been printed at <hi>London,</hi> yet the <hi>Printer's Errata</hi> are imputed to the <hi>Author's</hi> being <hi>ſometimes abſent from the Univerſity.</hi> (as if there were no ſending to <hi>London,</hi> or having intelligence from thence, un<g ref="char:EOLhyphen"/>leſs by being at <hi>Oxford</hi> or <hi>Cambridge.</hi>) A Counterfeit in one thing will be a Counterfeit in another. My fourth Reaſon is, becauſe in the very <hi>laſt lines</hi> printed <hi>after the Errata,</hi> a Con<g ref="char:EOLhyphen"/>feſſion is made unto the Reader, that many paſſages of the Book were (diſhoneſtly) <hi>taken</hi> from ſeveral Authors, without an acknowledgment of the Authors from whom the paſſages were ſtolne; and without ſo much as a Note of Difference, which is uſually made in <hi>Italick Letters.</hi> This in that place is expreſſed thus—[<hi>Some things taken out of Dr. Davenant, Dr. Twiſſe,</hi> &amp;c. <hi>are not put in the Italick Letters, nor the</hi> Authors Names <hi>ſet againſt them in the Margin.</hi>] Where I ob<g ref="char:EOLhyphen"/>ſerve theſe things. 1. Your favourable <hi>Periphraſis</hi> whereby the <hi>Plagium</hi> or <hi>Robbery</hi> is here deſcribed. (<hi>Things were ta<g ref="char:EOLhyphen"/>ken out of Authors,</hi> without taking notice of their <hi>Names,</hi> and without the doing of any thing elſe, by which they might be known to be <hi>none of yours.</hi> Neither <hi>Celſus</hi> nor <hi>Bathyllus</hi> could have ſaid leſs for themſelves) Secondly, This Confeſſion was not made until the Libel was quite printed, which was after the diſcoveries of your former ſtealths were made <hi>publick:</hi> And in which our <hi>Churchman</hi> had not been ſo concerned, had not <hi>He</hi> and Mr. <hi>Hickman</hi> been both the <hi>ſame.</hi> Thirdly, Af<g ref="char:EOLhyphen"/>ter <hi>Davenant,</hi> and <hi>Twiſſe,</hi> there is added an [&amp;c.] Importing
+<pb n="28" facs="tcp:168965:18"/>many <hi>more Authors,</hi> that had been <hi>pilfer'd</hi> of wit and lan<g ref="char:EOLhyphen"/>guage, who yet are concealed with an [&amp;c.] becauſe the <hi>ſame</hi> that Mr. <hi>Hickman</hi> had ſo eminently <hi>robb'd</hi> in his former <hi>Book.</hi> Fourthly, As the other ſufferers are not named, ſo Dr. <hi>Davenant</hi> and Dr. <hi>Twiſſe</hi> are <hi>only named,</hi> without any refe<g ref="char:EOLhyphen"/>rence to their <hi>Books,</hi> much leſs to their <hi>pages, out of which</hi> it is confeſſed <hi>ſome things were taken.</hi> And ſo much for my fourth Reaſon. My Fifth Reaſon is, becauſe <hi>Churchman</hi> ſometimes confeſſeth, that what he ſpeaks is from the <hi>mouth</hi> of Mr. <hi>Hickman,</hi> as well as in Mr. <hi>Hickman's name.</hi> p. 168. <hi>l.</hi> 6, 20. My Sixth Reaſon is, becauſe I can prove that you <hi>owned</hi> the thing as <hi>yours,</hi> whilſt yet it ſtuck in the Preſs at <hi>Oxford,</hi> and continued ſo to do untill your <hi>Trade</hi> of ſtealing was in <hi>part</hi> diſcovered by Dr. <hi>Heylin,</hi> and in <hi>perfection</hi> by Mr. <hi>Pierce.</hi> After which you repented, though you purpos'd never to mend; and being aſham'd to own <hi>That,</hi> which you found would be proved to be but <hi>ſtolne;</hi> you try'd to hide it behind the <hi>veil</hi> of <hi>Theophilus Churchman.</hi> A couple of names no way ſuitable, unleſs it be by an <hi>Antiphraſis.</hi> For how can you be <hi>Theophilus,</hi> who ſlander <hi>God</hi> as the <hi>Author</hi> of the <hi>wickedeſt</hi> actions in the world? (Mr. <hi>Pierce</hi> hath printed your <hi>own words</hi> in his <hi>Letter</hi> to Dr. <hi>Heylin,</hi> p. 226. &amp;c.) And how can you be a <hi>Churchman,</hi> who were only ordained by <hi>Presby<g ref="char:EOLhyphen"/>terians,</hi> and by that made incapable of being admitted into the <hi>Clergy,</hi> without your abtenunciation of ſuch <hi>Mock-Orders?</hi>
+            </p>
+            <p>But haveing ſpent too much time in the plucking off your <hi>Hood,</hi> (that men may ſee who you are for all your <hi>mumming</hi>) I will proceed to make it appear, in the ſecond place, (the firſt being filled with your <hi>trade</hi> of <hi>ſtealing</hi>) what a <hi>trade</hi> of wilful <hi>lying,</hi> and <hi>ſlandering,</hi> is driven by thoſe <hi>Puritans</hi> who pretend to <hi>Godlineſſe</hi> onely for <hi>gain,</hi> and afterwards aggravate their Hypocriſie by calling it the <hi>token</hi> and alſo the <hi>Fruit</hi> of their <hi>Election.</hi>
+            </p>
+            <p>You deny in the Preface (p. 8, 9.) your having <hi>ſmitten,</hi> or <hi>bitten,</hi> or ever <hi>ſo much as ſhewed your teeth at ſequeſtred men of the Clergy.</hi> And yet beſides your railing at Dr. <hi>Heylin,</hi> and Mr. <hi>Pierce;</hi> at the <hi>Biſhops</hi> in general, and the <hi>Arch-Bi<g ref="char:EOLhyphen"/>ſhop</hi> in particular (as if he laboured to <hi>bring in Popery,</hi> and
+<pb n="29" facs="tcp:168965:18"/>had been <hi>turned out of the Schooles</hi>) you rancked <hi>Dr. Ham<g ref="char:EOLhyphen"/>mond</hi> with
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: p. 66. p. 21. <hi>Ep.</hi> p. 4. &amp;. <hi>Praef.</hi> p. 11. <hi>Book.</hi> p. 18.</note> 
+               <hi>Cerberus,</hi> and the <hi>Keeper of the great Ordinary of Hell.</hi> You called the <hi>Engliſh Tilenus</hi> an <hi>AEthiopian,</hi> a <hi>Scribler,</hi> a <hi>poor Fellow.</hi> Dr. <hi>Taylor Socinian</hi> and <hi>Pelagain.</hi> Dr. <hi>Martin</hi> the <hi>Licencer of a ſcurrilous Pamphlet.</hi> &amp;c.</p>
+            <p>You boaſt of contributing to the relief of Sequeſtred men (ib.) And yet you ſwallowed no leſs then <hi>three Benefices at once</hi> although you had no right to any of them. <hi>viz.</hi> The <hi>Vicarage of Brackley,</hi> (belonging to learned Dr. <hi>Sibthorp</hi>) the <hi>Parſonage</hi> ſo St. <hi>Aules</hi> (worth 150. pounds <hi>per An.</hi>) and a <hi>Fellowſhip</hi> of <hi>Madg. Coll.</hi> (enough for any ſingle man, who is not a greedy <hi>Puritanical</hi> Robber.) Before you were made to quit <hi>Brackley,</hi> you pocketed up the profits of all <hi>three at once,</hi> without the leaſt right to ſo much as <hi>one.</hi>
+            </p>
+            <p>You ſay that Dr. <hi>H. H. a moſt eminent Scholar affirmed concerning Dr. Heylin, that he was an unhappy writer, and mar<g ref="char:EOLhyphen"/>red every thing he medled with</hi> (p. 1.) A ſlander ſo great, that if you do not recant it, or name ſome Author, you will be as proverbial for your <hi>own invention,</hi> as you are already for ſlily filching <hi>other mens.</hi>
+            </p>
+            <p>I have learnt upon enquiry (of which I have made a great deal) that Dr. <hi>H. H.</hi> can belong to none but Dr. <hi>Hammond</hi> and Dr. <hi>Hentchman,</hi> who are both the friends of Dr. <hi>Heylin</hi> (as I am certified by ſome who are friends to both) and great <hi>applauders</hi> of his <hi>workes,</hi> and diſclaim the having ſo much as given occaſion to any <hi>ſlander.</hi> And therefore down upon you knees, and ask forgiveneſs of the Doctor before the world, or elſe I will make you as famous for ſomething elſe, as you have been for the <hi>Tooth-ach,</hi> to which you pre<g ref="char:EOLhyphen"/>tended even <hi>ex tempore,</hi> upon the coming forth of the <hi>new Diſcoverer Diſcovered.</hi>
+            </p>
+            <p>You alſo ſay that he was checkt by Dr. <hi>Prideaux for going a little to neer the Papiſt,</hi> (p. 31. that he would fain have brought ſome of his brood into the <hi>Colledge</hi> p. 22. And you tell a large ſtory of a <hi>check</hi> he received from the <hi>Marqueſſe of Hartford.</hi> p. 35. All which with the reſt of what you have vented againſt the Dr. are at leaſt as ungrounded and home<g ref="char:EOLhyphen"/>bread lyes, as the <hi>Father of lies</hi> hath ever framed. But tis no more to his diſgrace, that he ſuffers as his Saviour, hath done
+<pb n="30" facs="tcp:168965:19"/>before him; than it can be to your glory that you have uſed Gods ſervants, as the <hi>Puritan Phariſees</hi> did his Son.</p>
+            <p>If now with your ſlanders and other lies I ſhall abſtract from your work (as we ought to do) all your <hi>old ends</hi> of ſtuff, (which are <hi>impertinent</hi> to the buſineſſe, as well as <hi>ſtolne</hi>) your over many and long <hi>tales;</hi> and if beſides I ſhall expunge (as I ought alſo to do) your world of <hi>Libellous</hi> and <hi>railing ſpeeches;</hi> there will be nothing remaining throughout the whole compoſition, which doth any way relate to the con<g ref="char:EOLhyphen"/>troverſie in hand, but what is abundantly confuted in the <hi>Certamen Epiſtolare,</hi> and in effect by your own <hi>Confeſſion.</hi>
+            </p>
+            <p>Your confeſſion is this, (p. 40.) <hi>That if you thought the Church of England had embraced,
+<note place="margin">☞</note> or but connived at Doctrines ſo pernicious, as Mr. Pierce repreſents the Calviniſtical to be, you ſhould account her the worſt of all Churches, not indeed worthy the name of a Church.</hi>] From hence it follows unde<g ref="char:EOLhyphen"/>niablely (and even your favourers cannot deny it) that as far as you believe that the <hi>Church</hi> of <hi>England</hi> is not the <hi>worst of Churches,</hi> ſo far you grant that the <hi>Calviniſtical</hi> cannot be poſſibly her Doctrines. Mark now my reaſon. Thoſe Do<g ref="char:EOLhyphen"/>ctrines are <hi>Calviniſtical,</hi> which are publickly taught by Mr. <hi>Calvin</hi> and the moſt eminent of his <hi>Followers.</hi> But Mr. <hi>Pierce</hi> hath made it manifeſt from the <hi>words</hi> of <hi>Calvin,</hi> and his <hi>followers,</hi> exactly cited from their Books, that they have <hi>commonly taught God to be the Author of ſin,</hi> and that <hi>in all manner of termes in which that Blaſphemy can be ex<g ref="char:EOLhyphen"/>preſſed;</hi> ſee variety of examples produced by Mr. <hi>Peirce</hi> in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Chap. 1. p. 8. but eſpecially Ch. 3. p. 140, 141. which no one <hi>Calviniſt</hi> hath ever attempted to gain<g ref="char:EOLhyphen"/>ſay, Therefore you grant the whole thing, for the proving of which <hi>Dr. Heylin</hi> wrote; viz. that the Doctrines of the <hi>Calviniſts</hi> cannot be poſſibly embrace'd by the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Which you cannot yet deny, unleſſe by ſaying <hi>ſhee deſerves not the name of a Church,</hi> which are your own words in the place above cited. Nor is it ſtrange ſince in your ſcan<g ref="char:EOLhyphen"/>dalous <hi>Latine Sermon</hi> (of whoſe faults I could ſend you a vaſt accompt if I had time) you rail as bitterly as a <hi>Jeſuit</hi> at the Church of <hi>England.</hi> For could a <hi>Jeſuit</hi> ſay worſe, than that [
+<note n="*" place="margin">
+                  <hi>Concio dé Haereſ. orig. p.</hi> 7.</note> 
+               <hi>The Church of England alone hath brought forth Monſters of
+<pb n="31" facs="tcp:168965:19"/>opinions, at which a mad Aegyptian would ſtand amaz'd?</hi>] yet this is nothing but the <hi>Engliſh</hi> of your <hi>Latine</hi> in that printed <hi>Sermon</hi> (p. 7. <hi>l.</hi> 11, 12, 13, 14.)</p>
+            <p>As for your ſaying that by <hi>One</hi> Dr. <hi>Overal,</hi> you meant <hi>not two,</hi> when 'twas ſpoken ſo plainly by way of ſcorn; and for the work you make with <hi>Typographical Errata,</hi> which are ſo clearly typographical that they make arrant <hi>Nonſenſe,</hi> (which could never have fall'n from Dr. <hi>Heylin</hi>) it is ſo much to your ſhame that you could catch at ſuch flies, as I need not wiſh you a greater puniſhment.</p>
+            <p>Now I come to your Letter to Dr. <hi>Heylin</hi> printed together with your <hi>Book.</hi> And firſt, I begin with your wilfull <hi>Lyes.</hi> For though you had promis'd in the <hi>Title-page a Reply to</hi> Mr <hi>Pierce,</hi> yet you, and all your Readers know, there is not any ſuch thing in all the Pamphlet. You ſhould have ſaid in the <hi>Title-page, A ſneaking away from Mr. Pierce.</hi> For, 1. whereas he proved from your <hi>words</hi> (citing your <hi>pages</hi> and very <hi>lines</hi>) that you had printed many <hi>Blaſphemies</hi> (as that the <hi>hating of God is Gods own Creature,</hi> &amp;c.) and as many <hi>ſelf<g ref="char:EOLhyphen"/>contradictions</hi> alſo, you durſt not return ſo much as a ſyllable to the <hi>one,</hi> or the <hi>other;</hi> but by anſwering nothing, you im<g ref="char:EOLhyphen"/>plied his proofs to be <hi>unanſwerable,</hi> becauſe you promiſed an anſwer to them; which had you been able you would have readily performed. And 2. whereas he had charg'd you with no leſs than <hi>an hundred and nine ſtealths,</hi> there are but <hi>two</hi> of ſo vaſt a number, which you endeavour to excuſe. And how do you endeavour it? even by ſuch enormous Lies, as will make you an example to all poſterity. Firſt, you ſay <hi>you never read Dr. Heylins Antidotum Lincolnienſe,</hi> p. 170. And yet you ſtole from him diverſe times together <hi>word for word</hi> Once more look upon the
+<note n="*" place="margin">See Mr. <hi>Pierce</hi>'s Let<g ref="char:EOLhyphen"/>ter. <hi>p.</hi> 280.</note> parallel, and ſay if it is poſſible that you never read Dr. <hi>Heylins</hi> Book.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Dr. <hi>Heylin.</hi>
+                     </cell>
+                     <cell role="label">Mr. <hi>Hickman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Only I will make bold to deal with you as <hi>Alexander</hi> did with his <hi>horſe Bucephalus,</hi> take you a little by the bridle, and turn you towards the Sun, that other men may ſee how <hi>you</hi> lay about you, though <hi>your ſelf</hi> do not. <hi>Antid. Lincoln, ch.</hi> 1. <hi>p.</hi> 5. <hi>l.</hi> 3, 4, &amp;c.</cell>
+                     <cell>Only I will make bold to deal with <hi>him,</hi> as <hi>Alexander</hi> did with his <hi>Bucephalus,</hi> take <hi>him</hi> a little by the bridle, and turn <hi>him</hi> to the Sun, that other men may ſee how <hi>he</hi> layes a<g ref="char:EOLhyphen"/>bout <hi>him,</hi> though <hi>himſelf</hi> will not. <hi>Book. p.</hi> 7. <hi>l</hi> 19.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="32" facs="tcp:168965:20"/>
+            <p> Secondly, you ſay <hi>you read this paſſage in the Engliſh Tranſ<g ref="char:EOLhyphen"/>lation of Plutarch's Lives,</hi> p. 167. (where by the way I obſerve, that you read <hi>Greek</hi> Authors, as <hi>women</hi> do,) and yet you know it is impoſſible that half the paſſage ſhould be there; for <hi>Plutarch</hi> told the <hi>naked ſtory,</hi> and did not apply it to the <hi>Biſhop of Lincoln:</hi> That you had from Dr. <hi>Heylin;</hi> unleſs you can prove you are a <hi>witch.</hi> 3. you ſay <hi>you know not if Doctor</hi> Heylin <hi>did quote it out of the ſame Author.</hi> p. 170. And yet you know he quotes <hi>Plutarchs Greek</hi> in his <hi>margin,</hi> which you could not but ſee, when you <hi>ſtole</hi> the paſſage. 4. you deny your having ſtoln another paſſage from Dr. <hi>White.</hi> But look again on the
+<note n="*" place="margin">Mr. <hi>Pierce</hi>'s Letter. <hi>p.</hi> 288.</note> parallel, and then do you and the world judge.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Dr. <hi>White.</hi>
+                     </cell>
+                     <cell role="label">Mr. <hi>Hickman.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Memnon,</hi> when a certein merce<g ref="char:EOLhyphen"/>nary Souldier did with many bold and impure reproaches exclaim a<g ref="char:EOLhyphen"/>gainſt Great <hi>Alexander,</hi> lent him a blow with his Launce, ſaying, that he had hired him to fight againſt <hi>A<g ref="char:EOLhyphen"/>lexander</hi> and not to rail. <hi>Epiſt. to Read. bot. of p.</hi>
+                     </cell>
+                     <cell>Who <hi>(Memnon)</hi> hearing a merce<g ref="char:EOLhyphen"/>nary Souldier with many bold and impure reports exclaim againſt King <hi>Alexander,</hi> lent him a blow with his Launce, ſaying, that he had hired him to fight againſt <hi>Alexander</hi> and not to rail. <hi>Book. p.</hi> 17.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now Sir, if your caſe is ſo deplorable in theſe very particu<g ref="char:EOLhyphen"/>lars, which you choſe to clear your ſelf from (amidſt 109.) what can you ſay in your behalf, for having ſtoln no leſs than
+<note n="*" place="margin">
+                  <hi>Ibid. p.</hi> 286.</note> 
+               <hi>twenty good lines together,</hi> and many more than ſo too, not by <hi>lines</hi> but whole <hi>pages?</hi> yet (Fifthly,) <hi>you plead not guilty,</hi> p. 168. though but few lines before <hi>you pleaded guilty,</hi> p. 167. your words being theſe, that <hi>they may be well reckon'd amongſt the impertinences and Errata of the Book.</hi> Nay you call it a <hi>Peccadillo.</hi> p. 163. pretty expreſſions of the thing! So when <hi>Achan ſtole the wedge,</hi> 'twas but an <hi>Impertinency:</hi> and when <hi>Rachel robbed Laban,</hi> it was an <hi>Erratum.</hi> And 109. Theſts amount to no more than a <hi>Peccadillo.</hi>
+            </p>
+            <p>It is a very good Jeſt, to find you boaſting in the Title<g ref="char:EOLhyphen"/>page, of a <hi>Reply to Mr. Pierce,</hi> and yet confeſſing afterwards, that <hi>you never read Mr. Pierce's Book,</hi> nor <hi>ever would read it.</hi> p. 162. If you had, you could not have called yours a <hi>Reply</hi> to it. Nor is't a wonder you gave your <hi>Pupils</hi> ſo ſtrict a charge not to read it: for ſo they might have been aſhamed of ha<g ref="char:EOLhyphen"/>ving owned you for a <hi>Tutor.</hi>
+            </p>
+            <pb n="33" facs="tcp:168965:20"/>
+            <p> You ſay Mr. <hi>Pierce</hi> (by accuſing you of <hi>theft</hi>) did <hi>bear falſe witneſs.</hi> p. 163. though he caught you in the Act no leſs than one <hi>hundred and nine</hi> times. And you implicitly confeſs <hi>grent ſtore was ſtolne,</hi> by ſaying, that <hi>ſome paſſages are not any ones elſe, but Mr. Hickmans own,</hi> p. 167. I ſuppoſe you mean the moſt ſtupid and railing paſſages, which yet you may ſeem to have ſtolne from <hi>Billingsgate:</hi> and then <hi>no part</hi> of the <hi>Book</hi> was <hi>yours,</hi> though by patching up all materials you became <hi>Cobler</hi> unto the <hi>whole.</hi>
+            </p>
+            <p>One part of your Dilemma (p 163.) is very true, that Mr. <hi>Bar<g ref="char:EOLhyphen"/>lee</hi> had <hi>very falſely</hi> (you ſhould have ſaid ſlanderouſly) <hi>accu<g ref="char:EOLhyphen"/>ſed</hi> Mr. <hi>Pierce, of being beholding to Fur Praedeſtinatus for ſome of his citations.</hi> For Mr. <hi>P.</hi> did immediately ſhew the <hi>madneſs</hi> of that Invention in ten reſpects, (See <hi>Divine Philanth defend. ch.</hi> 3. <hi>p.</hi> 139. <hi>to p.</hi> 143.) and Mr. <hi>Barlee</hi> hath ſince <hi>repented</hi> of it. Whereupon he is return'd into the favour of Mr. <hi>P.</hi> as you may do (I preſume) upon the very ſame Termes. Never was there a writer more exact than Mr. <hi>Pierce</hi> in <hi>citing the Authors</hi> which he <hi>uſeth;</hi> (inſomuch that many have thought him too punctual, punctual even to ſuperſtition.) When firſt he quo<g ref="char:EOLhyphen"/>ted <hi>ſome</hi> of the <hi>Fathers</hi> as he found them quoted by famous <hi>Voſſius,</hi> he was careful to tell the Reader, that <hi>he found them in Voſſius first,</hi> before he found the Truth of them in the <hi>Fathers themſelves,</hi> (ſee, and imitate <hi>Correct Copy,</hi> p. 25.) which yet he needed not have done, (but that his Chriſtian ſimplicity was very great) becauſe the reading of thoſe <hi>Fathers</hi> belonged to <hi>him,</hi> as well as <hi>Voſſius,</hi> and conſidering his years, I believe he had read them as much as <hi>Voſſius.</hi>
+            </p>
+            <p>The implicit excuſe which you make for your ſelf, that <hi>ha<g ref="char:EOLhyphen"/>ving been accuſtom'd in the dayes of your minority to deal in Sentences, Apothegmes, and fragments, you could not forbear it when you came to maturity,</hi> (p. 165, 166.) is no more to your advantage, than it would be to a <hi>Cutpurſe</hi> to tell the Judge he could not help his thievery, having from a Child been inured to it. Sins are never the better, but the worſe for being habi<g ref="char:EOLhyphen"/>tual and inveterate. And that your <hi>Book</hi> is like <hi>Herodotus</hi> his head, [void of brains, but fill'd with hony-combes,] you well confeſs by your application, <hi>p.</hi> 167.</p>
+            <p>'Tis ſtrange you ſhould <hi>confeſs, you having ſtolne ſome things
+<pb n="34" facs="tcp:168965:21"/>out of Canterburies Doom,</hi> (p. 168.) in the very <hi>ſame page</hi> where you <hi>plead not guilty,</hi> and therefore who will believe you when you deny your having rifled Mr. <hi>Prins Antiarminianiſme?</hi> Though you ſay you have <hi>witneſſes,</hi> you name not <hi>one,</hi> and (in <hi>ſuch</hi> a <hi>negative</hi>) you cannot poſſibly have any. <hi>Dr. H.</hi> and Mr. <hi>P.</hi> (beſide my additional inſtances) have proved what you <hi>have done.</hi> But what you have <hi>not done</hi> beſides, (as often as you have <hi>ſlept</hi>) none can tell ſo well as you, and they that <hi>watch</hi> you whilſt you were <hi>ſleeping.</hi>
+            </p>
+            <p>'Tis very well that now at laſt, (having been taught by Mr. <hi>P.</hi>) you acknowledge it is the <hi>odiſſe Deum, the hating of God that is an action,</hi> (p. 172.) But you know you were ſo <hi>ignorant,</hi> when you writ your <hi>firſt Fardel,</hi> as to call <hi>hatred</hi> an <hi>action,</hi> (p. 95.) which a <hi>Fellow of Magd. Coll.</hi> ſhould have known to be a <hi>Quality.</hi> But from you who were ſo abſolutely a ſtranger to <hi>Scholarſhip,</hi> as to write <hi>extaſis</hi> for <hi>ecſtaſis,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in a couple of paſſages which you filch'd from Maſter <hi>Goodwin,</hi> we muſt not expect any skill in <hi>Legick,</hi> &amp; therefore here I ſhall adviſe you, only to cut off your Beard, and return again to the <hi>Grammar</hi> School.</p>
+            <p>You <hi>end</hi> (agreeably to the reſt) with an ill-made excuſe: For all the Reaſon which you render, why you ſtole diverſe things from <hi>Dr. Davenant</hi> &amp; <hi>Dr. Twiſſe,</hi> is your being <hi>ſome<g ref="char:EOLhyphen"/>times abſent from the <g ref="char:V">Ʋ</g>niverſity.</hi> As if you could not be honeſt in other places as well as <hi>Oxford;</hi> which yet is known to be the uſual place of your abode, ſince the Time that you thought <hi>ſtolne Bread</hi> to be the <hi>ſweeteſt.</hi>
+            </p>
+            <p>I will therefore conclude with a <hi>memento,</hi> that you were taught in the <hi>Church Catechiſme,</hi> to <hi>keep your hands from Picking and Stealing, and your Tongue from evil ſpeaking.</hi> But ſo far have you been from the <hi>first,</hi> that what you have read in Mr. <hi>Morice,</hi> and other <hi>Engliſh Writers,</hi> you have preſently had at your <hi>fingers ends;</hi> as if you were really an <hi>Adamite,</hi> and thought all <hi>yours</hi> that you could lay your <hi>hands</hi> on. And ſo far from the <hi>Second,</hi> that your <hi>Tongue</hi> may be reckoned the moſt <hi>unruly member</hi> in all your <hi>Body.</hi>
+            </p>
+            <p>Sir, To tell you freely of your Eſtate, is the greateſt favour that man can do you. To ſooth you up in your courſe, is to betray you to your ſelf, and act for Satan. You cannot ſay I have been your <hi>Flatterer;</hi> and there<g ref="char:EOLhyphen"/>fore I hope you will take my plain dealing for a token that I am</p>
+            <closer>
+               <signed>Your Friend <hi>M. O.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
